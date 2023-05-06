@@ -1,4 +1,4 @@
-This is our annymous website for ASE'23 submission #109: `Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries`.
+This is our anonymous website for ASE'23 submission #109: `Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries`.
 
 In `cases.md`, we show some cases of the identification results in RQ4, including both correctly identified libraries, and incorrectly identified libraries.
 
