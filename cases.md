@@ -35,3 +35,8 @@ maven:commons-sql:commons-sql
 maven:org.cloudhoist:php
 maven:cocoon:cocoon-php
 ~~~
+
+
+##### Conclusion
+From the preceding two examples, we show that VulLibMiner can identify vulnerable libraries (especially those neglected in NVD) while its effectiveness might be affected by the quality of vulnerability descriptions.
+
