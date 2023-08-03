@@ -1,0 +1,949 @@
+cve_id,labels
+CVE-2014-1904,"['org.craftercms crafter-search-index-updater', 'net.oschina.durcframework durcframework-core', 'com.github.raychatter spring-restful-exception-handler', 'net.winroad wrdoclet', 'com.github.pabloo99.xmlsoccer xmlsoccer', 'org.springframework spring-webmvc', 'com.graphaware.neo4j graphaware-framework-server-community']"
+CVE-2014-1972,['org.apache.tapestry tapestry-core']
+CVE-2014-2059,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2061,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2062,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2063,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2064,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2065,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2066,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2067,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2068,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-2296,['org.jasig.cas cas-server-core']
+CVE-2014-2857,['active_model_serializers']
+CVE-2014-2858,['org.grails grails-core']
+CVE-2014-3004,"['org.codehaus.castor castor-xml', 'org.codehaus.castor castor-core']"
+CVE-2014-3120,"['katello-configure', 'org.elasticsearch elasticsearch']"
+CVE-2014-3416,['org.jasig.portal uportal-war']
+CVE-2014-3417,['org.jasig.portal uportal-war']
+CVE-2014-3488,"['org.graylog2 graylog2-radio', 'io.selendroid selendroid-standalone', 'com.wavefront proxy', 'org.onosproject onos-netconf-provider-device', 'org.apache.flink flink-shaded-curator-recipes', 'io.netty netty', 'org.onosproject onlab-stc', 'io.fabric8.insight insight-rhq-metrics', 'org.apache.flink flink-runtime_2.11']"
+CVE-2014-3490,"['org.jboss.resteasy resteasy-jaxb-provider', 'resteasy']"
+CVE-2014-3503,['org.apache.syncope syncope-core']
+CVE-2014-3526,['org.apache.wicket wicket-core']
+CVE-2014-3527,['org.springframework.security spring-security-cas']
+CVE-2014-3529,['org.apache.poi poi-ooxml']
+CVE-2014-3530,['picketlink-federation']
+CVE-2014-3574,['org.apache.poi poi-ooxml']
+CVE-2014-3576,"['org.apache.activemq activemq-broker', 'org.apache.activemq activemq-all']"
+CVE-2014-3577,"['openshift-origin-cartridge-cron', 'openshift-origin-msg-node-mcollective', 'org.apache.httpcomponents httpclient', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'org.apache.httpcomponents httpclient-android', 'openshift-origin-cartridge-perl', 'commons-httpclient commons-httpclient', 'org.apache.cxf cxf-rt-transports-http', 'wss4j', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'org.apache.httpcomponents httpasyncclient', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'apache-cxf', 'jboss-seam2', 'rhc', 'activemq', 'openshift-origin-cartridge-haproxy', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'openshift-origin-cartridge-jenkins', 'jakarta-commons-httpclient', 'openshift-origin-cartridge-mysql', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2014-3578,"['org.springframework spring-core', 'org.jglobus JGlobus-Core']"
+CVE-2014-3579,['org.apache.activemq apollo-selector']
+CVE-2014-3584,['org.apache.cxf cxf-rt-rs-security-xml']
+CVE-2014-3596,"['org.ow2.jonas jonas-webservices-axis-core', 'axis', 'org.apache.axis axis', 'axis axis', 'org.ow2.orchestra orchestra-axis', 'org.lappsgrid all', 'org.ow2.orchestra orchestra-axis-osgi', 'gr.iti.mklab mklab-stream-manager', 'com.barchart.wrap barchart-wrap-axis', 'org.ow2.jonas jonas-webservices-axis']"
+CVE-2014-3600,"['org.apache.activemq activemq-broker', 'org.apache.activemq activemq-all', 'org.apache.activemq apache-activemq', 'org.apache.activemq activemq-core', 'org.apache.activemq activemq-client']"
+CVE-2014-3604,['ca.juliusdavies not-yet-commons-ssl']
+CVE-2014-3607,['edu.vt.middleware vt-ldap']
+CVE-2014-3612,"['org.apache.activemq activemq-broker', 'org.apache.activemq activemq-all', 'org.apache.activemq activemq-core', 'org.apache.activemq activemq-osgi', 'org.apache.activemq activemq-jaas']"
+CVE-2014-3623,"['org.apache.cxf cxf-rt-ws-security', 'br.com.esec.icpm certillion-client-library', 'org.apache.wss4j wss4j-ws-security-dom', 'apache-cxf', 'org.apache.wss4j wss4j-ws-security-stax', 'wss4j', 'org.apache.ws.security wss4j', 'org.apache.cxf cxf']"
+CVE-2014-3625,"['org.craftercms crafter-search-index-updater', 'net.oschina.durcframework durcframework-core', 'com.github.raychatter spring-restful-exception-handler', 'net.winroad wrdoclet', 'com.github.pabloo99.xmlsoccer xmlsoccer', 'org.springframework spring-webmvc', 'com.graphaware.neo4j graphaware-framework-server-community']"
+CVE-2014-3627,"['org.apache.hadoop hadoop-yarn-server-nodemanager', 'org.apache.hadoop hadoop-yarn', 'org.apache.hadoop hadoop-yarn-common']"
+CVE-2014-3628,"['org.apache.solr solr', 'org.apache.solr solr-core']"
+CVE-2014-3651,['org.keycloak keycloak-services']
+CVE-2014-3661,"['nodejs-from', 'nodejs-got', 'nodejs-rc', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-kind-of', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-mkdirp', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3662,"['nodejs-from', 'nodejs-got', 'nodejs-registry-url', 'nodejs-duplexify', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-rc', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-event-stream', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3663,"['nodejs-from', 'nodejs-got', 'nodejs-rc', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-kind-of', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-mkdirp', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3664,"['nodejs-from', 'nodejs-got', 'nodejs-registry-url', 'nodejs-duplexify', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-rc', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-event-stream', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3665,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-3666,"['nodejs-from', 'nodejs-got', 'nodejs-registry-url', 'nodejs-duplexify', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-rc', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-event-stream', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3667,"['nodejs-from', 'nodejs-got', 'nodejs-rc', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-kind-of', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-mkdirp', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3678,"['jenkins', 'openshift-origin-cartridge-jenkins', 'jenkins-plugin-openshift']"
+CVE-2014-3680,"['nodejs-from', 'nodejs-got', 'nodejs-registry-url', 'nodejs-duplexify', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-kind-of', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-mkdirp', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'nodejs-through', 'nodejs-map-stream', 'nodejs-rc', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-event-stream', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3681,"['nodejs-from', 'nodejs-got', 'nodejs-registry-url', 'nodejs-duplexify', 'nodejs-object-assign', 'jenkins-plugin-openshift', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'nodejs-align-text', 'nodejs-graceful-fs', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'jenkins', 'openshift-origin-cartridge-jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-rc', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'atomic-openshift', 'nodejs-semver', 'nodejs-read-all-stream', 'nodejs-split', 'nodejs-normalize-path', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-event-stream', 'nodejs-ini', 'nodejs-pause-stream']"
+CVE-2014-3682,['org.jbpm jbpm-designer-backend']
+CVE-2014-3709,['org.keycloak keycloak-services']
+CVE-2014-4611,"['extlz4', 'com.microsoft.spark spark-clr', 'com.microsoft.sparkclr spark-clr', 'lz4', 'lz4ext', 'org.apache.htrace htrace-zipkin', 'net.jpountz.lz4 lz4', 'org.apache.spark spark-streaming-kafka-assembly_2.10', 'org.apache.spark spark-streaming-kafka-assembly_2.11', 'org.apache.storm storm-starter', 'org.apache.bigtop.itest fat-smoke', 'org.graylog2 graylog2-server']"
+CVE-2014-4715,"['io.ifar.kafka-archiver kafka-archiver', 'extlz4', 'lz4net', 'com.microsoft.sparkclr spark-clr', 'lz4', 'lz4ext', 'org.apache.htrace htrace-zipkin', 'com.microsoft.spark spark-clr', 'net.jpountz.lz4 lz4', 'org.apache.storm storm-starter', 'lz4-ruby', 'org.apache.spark spark-streaming-kafka-assembly_2.11', 'org.apache.spark spark-streaming-kafka-assembly_2.10', 'org.apache.bigtop.itest fat-smoke', 'org.graylog2 graylog2-server']"
+CVE-2014-5075,"['jivesoftware smack', 'org.igniterealtime.smack smack-tcp', 'org.igniterealtime.smack smack']"
+CVE-2014-5325,['org.directwebremoting dwr']
+CVE-2014-5326,['org.directwebremoting dwr']
+CVE-2014-6071,['jquery']
+CVE-2014-6394,"['org.webjars.npm send', 'send']"
+CVE-2014-6439,['org.elasticsearch elasticsearch']
+CVE-2014-7191,"['ljharb-qs', 'org.webjars qs', 'org.webjars.npm qs', 'qs', 'nodejs010-node-gyp', 'nodejs010-nodejs-qs']"
+CVE-2014-7808,"['org.apache.wicket wicket-util', 'org.apache.wicket wicket-core']"
+CVE-2014-7809,['org.apache.struts struts2-core']
+CVE-2014-7810,"['org.apache.tomcat el-api', 'org.apache.tomcat.embed tomcat-embed-jasper', 'org.apache.tomcat jasper', 'tomcat7', 'tomcat6', 'org.apache.tomcat tomcat-jasper', 'org.apache.tomcat.embed tomcat-embed-el', 'org.apache.tomcat tomcat-el-api', 'org.mortbay.jasper apache-el', 'org.apache.tomcat.embed tomcat-embed-core', 'org.mortbay.jasper apache-jsp']"
+CVE-2014-7816,"['io.undertow undertow-core', 'io.undertow undertow-servlet']"
+CVE-2014-8110,['org.apache.activemq activemq-web-console']
+CVE-2014-8114,['org.uberfire uberfire-server']
+CVE-2014-8115,['org.kie kie-drools-wb-distribution-wars']
+CVE-2014-8125,"['org.drools drools-core', 'org.jbpm jbpm-bpmn2', 'org.graylog2 graylog2-bootstrap', 'org.graylog2 graylog2-server', 'org.graylog2 graylog2']"
+CVE-2014-8152,['org.apache.santuario xmlsec']
+CVE-2014-9515,['net.sf.dozer dozer']
+CVE-2014-9527,['org.apache.poi poi-scratchpad']
+CVE-2014-9970,"['eap7-jboss-metadata', 'eap7-wildfly-javadocs', 'eap7-jboss-remote-naming', 'eap7-log4j-jboss-logmanager', 'eap7-jasypt', 'eap7-picketlink-bindings', 'eap7-jboss-logmanager', 'eap7-wildfly', 'eap7-jboss-remoting', 'eap7-picketlink-federation', 'eap7-bouncycastle', 'eap7-hibernate-validator', 'eap7-undertow', 'eap7-jboss-jms-api_2.0_spec', 'rh-sso7-keycloak', 'eap7-jboss-ec2-eap', 'eap7-artemis-native', 'org.jasypt jasypt']"
+CVE-2015-0201,"['org.springframework spring-core', 'org.springframework spring-websocket']"
+CVE-2015-0225,['org.apache.cassandra cassandra-all']
+CVE-2015-0250,"['batik batik-dom', 'org.apache.xmlgraphics batik-dom']"
+CVE-2015-0263,['org.apache.camel camel-core']
+CVE-2015-0264,['org.apache.camel camel-core']
+CVE-2015-0279,['org.richfaces richfaces-a4j']
+CVE-2015-0886,"['com.puresoltechnologies.purifinity.server server.ddl', 'de.nierbeck.cassandra Karaf-Cassandra-Embedded', 'org.hawkular.metrics hawkular-metrics-data-generator', 'com.puresoltechnologies.ductiledb ductiledb-jdbc', 'com.puresoltechnologies.purifinity.server global.ddl', 'io.paradoxical cassieq-core', 'org.mindrot jbcrypt']"
+CVE-2015-0899,"['org.apache.struts struts-core', 'struts struts']"
+CVE-2015-1169,['org.jasig.cas cas-server-support-ldap']
+CVE-2015-1370,"['marked', 'org.webjars.npm marked', 'org.webjars marked']"
+CVE-2015-1427,['org.elasticsearch elasticsearch']
+CVE-2015-1772,['org.apache.hive hive-service']
+CVE-2015-1776,"['org.apache.hadoop hadoop-mapreduce-client-app', 'org.apache.hadoop hadoop-mapreduce-client-core']"
+CVE-2015-1796,['org.opensaml opensaml']
+CVE-2015-1830,"['org.apache.activemq activemq-fileserver', 'org.apache.activemq apache-activemq']"
+CVE-2015-1831,['org.apache.struts.xwork xwork-core']
+CVE-2015-1832,['org.apache.derby derby']
+CVE-2015-1833,['org.apache.jackrabbit jackrabbit-webdav']
+CVE-2015-1836,['org.apache.hbase hbase-client']
+CVE-2015-2080,"['com.elastisys.scale cloudpool.openstack', 'com.elastisys.scale cloudadapters.splitter', 'io.advantageous.qbit qbit-jetty', 'org.eclipse.jetty jetty-http', 'com.github.mtakaki credential-storage-client', 'co.paralleluniverse comsat-jetty-loader', 'com.elastisys.scale cloudpool.splitter', 'com.elastisys.scale cloudpool.aws.autoscaling', 'com.neuronrobotics BowlerScriptingKernel', 'com.elastisys.scale cloudadapters.aws.ec2', 'com.elastisys.scale cloudpool.aws.spot', 'com.qubole quark-server', 'com.elastisys.scale cloudpool.aws.ec2', 'org.eclipse.jetty.aggregate jetty-all', 'com.github.mtakaki credential-storage', 'com.elastisys.scale cloudadapters.aws.autoscaling', 'com.elastisys.scale cloudadapters.openstack']"
+CVE-2015-2156,"['de.is24.util junit-karma-testrunner', 'com.puresoltechnologies.purifinity.server server.ddl', 'io.netty netty-handler', 'com.automation-remarks video-recorder-remote', 'io.netty netty-codec-http', 'com.facebook.nifty nifty-load-tester', 'com.testingbot TestingBotTunnel', 'org.apache.camel camel-web-standalone', 'com.puresoltechnologies.purifinity.plugins metrics.ddl', 'com.puresoltechnologies.purifinity.server passwordstore.ddl', 'com.puresoltechnologies.purifinity.server global.ddl', 'org.apache.bigtop.itest fat-smoke', 'com.github.brandtg switchboard-hdfs', 'com.facebook.swift swift-load-generator', 'com.github.sakserv hadoop-mini-clusters', 'io.netty netty-all', 'com.ge.snowizard snowizard-application', 'com.github.jsimone webapp-runner', 'com.iveely com.iveely.computing', 'com.neuronrobotics BowlerScriptingKernel', 'io.netty netty-example', 'com.salesforceiq.augmenteddriver AugmentedDriver', 'io.netty netty', 'com.puresoltechnologies.purifinity.server systemmonitor.ddl', 'com.github.sakserv hadoop-mini-clusters-hbase', 'co.cask.cdap cdap-flume', 'com.data-artisans cascading-flink']"
+CVE-2015-2575,['mysql mysql-connector-java']
+CVE-2015-2582,"['mariadb55-mariadb', 'rh-mariadb100-mariadb', 'mysql55-mysql', 'rh-mysql56-mysql']"
+CVE-2015-2912,"['com.orientechnologies orientdb-server', 'com.orientechnologies orientdb-core']"
+CVE-2015-2913,['com.orientechnologies orientdb-server']
+CVE-2015-2944,"['org.apache.sling org.apache.sling.servlets.post', 'org.apache.sling org.apache.sling.api']"
+CVE-2015-3188,['org.apache.storm storm-core']
+CVE-2015-3190,['org.cloudfoundry.identity cloudfoundry-identity-login']
+CVE-2015-3191,['org.cloudfoundry.identity cloudfoundry-identity-login']
+CVE-2015-3192,"['org.springframework spring-oxm', 'org.springframework spring-web']"
+CVE-2015-3250,"['org.apache.directory.api api-ldap-model', 'org.apache.directory.server apacheds-all', 'org.apache.directory.api api-ldap-client-all', 'org.apache.directory.api apache-ldap-api', 'org.apache.directory.api api-all']"
+CVE-2015-3253,"['org.codehaus.groovy groovy-all', 'groovy', 'org.codehaus.groovy groovy', 'rh-maven33-groovy']"
+CVE-2015-3269,['org.apache.flex.blazeds flex-messaging-core']
+CVE-2015-3271,['org.apache.tika tika-server']
+CVE-2015-3337,['org.elasticsearch elasticsearch']
+CVE-2015-4165,['org.elasticsearch elasticsearch']
+CVE-2015-5169,['org.apache.struts struts2-core']
+CVE-2015-5170,['org.cloudfoundry.identity cloudfoundry-identity-login']
+CVE-2015-5171,['org.cloudfoundry.identity cloudfoundry-identity-common']
+CVE-2015-5172,['org.cloudfoundry.identity cloudfoundry-identity-login']
+CVE-2015-5173,['org.cloudfoundry.identity cloudfoundry-identity-login']
+CVE-2015-5175,['org.apache.cxf.fediz fediz-core']
+CVE-2015-5209,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2015-5211,['org.springframework spring-web']
+CVE-2015-5237,['com.google.protobuf protobuf-java']
+CVE-2015-5241,['org.apache.juddi juddi-parent']
+CVE-2015-5253,['org.apache.cxf cxf-rt-rs-security-sso-saml']
+CVE-2015-5254,"['rubygem-openshift-origin-console', 'php', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-php', 'org.apache.activemq activemq-client', 'org.apache.activemq activemq-all', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-node', 'rubygem-openshift-origin-common', 'openshift-origin-cartridge-python', 'openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mysql', 'openshift-origin-node-proxy', 'openshift-origin-node-util', 'jenkins', 'rhc', 'openshift-enterprise-upgrade', 'activemq', 'rubygem-openshift-origin-frontend-apache-vhost', 'rubygem-openshift-origin-controller']"
+CVE-2015-5255,['org.apache.flex.blazeds flex-messaging-core']
+CVE-2015-5258,['org.springframework.social spring-social-core']
+CVE-2015-5262,"['org.apache.httpcomponents httpclient', 'org.apache.httpcomponents httpclient-android']"
+CVE-2015-5317,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5318,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5319,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5320,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5322,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5323,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5324,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5325,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5326,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-5344,"['org.apache.camel camel-core', 'org.apache.camel camel-xstream']"
+CVE-2015-5345,"['org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'httpd24', 'tomcat7', 'tomcat6', 'org.apache.tomcat catalina', 'org.apache.tomcat tomcat-util', 'com.ovea.tajin.server tajin-server-jetty9', 'com.ovea.tajin.server tajin-server-jetty8', 'mod_security-jws3', 'tomcat8']"
+CVE-2015-5346,"['org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'httpd24', 'tomcat7', 'mod_security-jws3', 'tomcat8']"
+CVE-2015-5347,"['org.ops4j.pax.wicket org.ops4j.pax.wicket.service', 'org.apache.wicket wicket-extensions']"
+CVE-2015-5348,"['org.apache.camel camel-spark-rest', 'org.apache.camel camel-http-common', 'org.apache.camel camel-ahc', 'org.apache.camel camel-http', 'org.apache.camel camel-http4', 'org.apache.camel camel-jetty-common', 'org.apache.camel camel-jetty9']"
+CVE-2015-5349,"['org.apache.directory.studio ldapbrowser.core', 'org.apache.directory.studio org.apache.directory.studio.parent', 'org.apache.directory.studio org.apache.directory.studio.ldapbrowser.core']"
+CVE-2015-5351,"['tomcat7', 'httpd24', 'mod_security-jws3', 'org.apache.tomcat tomcat', 'tomcat8']"
+CVE-2015-5377,['org.elasticsearch elasticsearch']
+CVE-2015-5531,['org.elasticsearch elasticsearch']
+CVE-2015-6254,"['org.picketlink picketlink-tomcat-common', 'org.picketlink picketlink-federation']"
+CVE-2015-6420,['commons-collections commons-collections']
+CVE-2015-6524,"['org.apache.activemq activemq-web', 'org.apache.activemq activemq-core', 'org.apache.activemq activemq-all', 'org.apache.activemq activemq-osgi', 'org.apache.activemq activemq-jaas']"
+CVE-2015-6584,"['datatables', 'org.webjars.npm datatables', 'org.webjars.bower datatables', 'org.webjars.bower DataTables', 'org.webjars datatables']"
+CVE-2015-6748,"['org.apache.tika tika-server', 'org.jsoup jsoup', 'org.ops4j.pax.url pax-url-aether']"
+CVE-2015-7516,['org.onosproject onos-core-net']
+CVE-2015-7520,['org.apache.wicket wicket-core']
+CVE-2015-7521,"['org.apache.hive hive-ant', 'org.apache.storm storm-hive-examples', 'org.apache.giraph giraph-hive', 'org.apache.hive.hcatalog hive-webhcat', 'org.apache.hive hive-shims', 'org.apache.hive hive-accumulo-handler', 'org.apache.hive hive-cli', 'org.apache.hive hive-serde', 'org.apache.hive.shims hive-shims-0.20S', 'org.apache.hive hive-metastore', 'org.apache.hive hive-hwi', 'org.apache.hive hive-exec', 'org.apache.hive.hcatalog hive-hcatalog-core', 'org.apache.hive.hcatalog hive-hcatalog-server-extensions', 'org.apache.hive hive-contrib', 'org.apache.hive hive-common', 'org.apache.hive.shims hive-shims-scheduler', 'org.apache.hive hive-service', 'org.apache.hive.shims hive-shims-0.23', 'org.apache.hive.shims hive-shims-0.20', 'org.apache.hive hive-testutils', 'org.apache.storm storm-hive', 'org.apache.hive.hcatalog hive-hcatalog-streaming', 'org.apache.hive hive-hbase-handler', 'org.apache.hive hive-jdbc', 'org.apache.drill.contrib.storage-hive drill-storage-hive-core', 'org.apache.hive.shims hive-shims-common-secure', 'org.apache.hive.hcatalog hive-hcatalog-pig-adapter', 'org.apache.hive hive-beeline', 'org.apache.hive.shims hive-shims-common']"
+CVE-2015-7537,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-7538,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-7539,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-7559,['org.apache.activemq activemq-client']
+CVE-2015-7940,"['bouncycastle bcprov-jdk14', 'bouncycastle bcprov-jdk15', 'org.bouncycastle bcprov-ext-jdk15on', 'org.bouncycastle bcprov-jdk14', 'org.bouncycastle bcprov-jdk15', 'org.bouncycastle bcprov-jdk16', 'bouncycastle bcprov-jdk13', 'bouncycastle bcprov-jdk16', 'org.bouncycastle bcprov-jdk12', 'org.bouncycastle bcprov-ext-jdk14', 'bouncycastle bcprov-jdk12', 'org.apache.directory.server apacheds-all', 'org.bouncycastle bcprov-jdk15on']"
+CVE-2015-8103,"['nodejs-from', 'openshift-origin-cartridge-cron', 'nodejs-got', 'openshift-origin-msg-node-mcollective', 'nodejs-rc', 'openshift-origin-cartridge-python', 'nodejs-object-assign', 'nodejs-slide', 'nodejs-mkdirp', 'nodejs-pinkie', 'php', 'nodejs-align-text', 'nodejs-graceful-fs', 'rubygem-openshift-origin-frontend-apache-vhost', 'openshift-origin-cartridge-php', 'nodejs-kind-of', 'nodejs-lowercase-keys', 'nodejs-prepend-http', 'nodejs-readdirp', 'openshift-origin-node-util', 'jenkins', 'nodejs-through', 'nodejs-map-stream', 'nodejs-duplexify', 'heapster', 'nodejs-pinkie-promise', 'nodejs-osenv', 'origin-kibana', 'openvswitch', 'openshift-origin-cartridge-mysql', 'nodejs-event-stream', 'atomic-openshift', 'nodejs-normalize-path', 'rhc', 'nodejs-semver', 'activemq', 'nodejs-read-all-stream', 'rubygem-openshift-origin-console', 'nodejs-split', 'openshift-origin-broker-util', 'rubygem-openshift-origin-controller', 'nodejs-stream-combiner', 'openshift-ansible', 'nodejs-optimist', 'nodejs-is-stream', 'nodejs-registry-url', 'rubygem-openshift-origin-common', 'openshift-origin-node-proxy', 'nodejs-ini', 'openshift-origin-cartridge-haproxy', 'nodejs-pause-stream', 'openshift-enterprise-upgrade', 'rubygem-openshift-origin-node']"
+CVE-2015-8795,"['org.apache.solr solr-dataimporthandler', 'org.apache.solr solr-core', 'org.apache.solr solr']"
+CVE-2015-8797,"['org.apache.solr solr', 'org.apache.solr solr-core', 'org.apache.lucene lucene-core']"
+CVE-2015-8854,"['marked', 'org.webjars.npm marked', 'org.webjars marked']"
+CVE-2015-8855,"['org.webjars.npm semver', 'semver', 'semver-bower']"
+CVE-2015-8859,"['org.webjars.npm send', 'send']"
+CVE-2015-8860,"['tar', 'org.webjars tar', 'org.webjars.npm tar']"
+CVE-2015-8861,"['webexhbs', 'webmake-ember-handlebars', 'handlebars', 'malcolm', 'mimosa-ember-handlebars', 'panels.js', 'selleck', 'tommydudebreaux-handlebars', 'component-builder-hbs', 'handlebars-commonjs', 'yui', 'handlebars.js', 'templatify', 'mimosa-emblem', 'awt-grunt-ember-templates', 'requirejs-template-plugins', 'ember-precompilex', 'bauplan', 'require-handlebars-plugin', 'handlebars-serializer', 'ember-template-precompile', 'assembly', 'grunt-ember-handlebars', 'ember-handlebars', 'nginb', 'handlebars-ex', 'catberry-handlebars', 'ember-precompile', 'ember-handlebars-browserify', 'grunt-static-handlebars', 'mimosa-emblem-compiler-1.8', 'handlebarsjs.org', 'handlebars-browserify', 'ss-handlebars', 'ember-templates', 'Backbone.Marionette.Handlebars', 'reid-selleck', 'handlebars-runtime', 'mustache']"
+CVE-2015-8862,"['org.webjars mustachejs', 'org.webjars.npm mustache', 'mustachejs-rails', 'mustache.js', 'org.webjars.bower mustache', 'mustache']"
+CVE-2015-9242,['ecstatic']
+CVE-2015-9251,"['org.webjars jquery', 'jquery', 'org.webjars.npm jquery', 'org.webjars.bower jQuery', 'org.webjars.bower jquery']"
+CVE-2016-0706,"['org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'httpd24', 'tomcat7', 'tomcat6', 'org.apache.tomcat catalina', 'mod_security-jws3', 'tomcat8']"
+CVE-2016-0709,"['org.apache.portals.jetspeed-2 j2-admin', 'org.apache.portals.jetspeed-2 jetspeed-security']"
+CVE-2016-0710,['org.apache.portals.jetspeed-2 jetspeed-security']
+CVE-2016-0711,"['org.apache.portals.jetspeed-2 j2-admin', 'org.apache.portals.jetspeed-2 jetspeed-security']"
+CVE-2016-0712,"['org.apache.portals.jetspeed-2 jetspeed-portal', 'org.apache.portals.jetspeed-2 jetspeed-portal-site']"
+CVE-2016-0714,"['org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'httpd24', 'tomcat7', 'tomcat6', 'org.apache.tomcat catalina', 'org.apache.tomcat tomcat-util', 'com.ovea.tajin.server tajin-server-jetty9', 'com.ovea.tajin.server tajin-server-jetty8', 'mod_security-jws3', 'tomcat8']"
+CVE-2016-0732,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-0734,"['org.apache.activemq activemq-web-console', 'org.apache.activemq activemq-parent']"
+CVE-2016-0750,['org.infinispan infinispan-client-hotrod']
+CVE-2016-0762,"['mod_cluster', 'tomcat catalina', 'org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'tomcat7', 'hibernate4-eap6', 'org.apache.tomcat catalina', 'tomcat-vault', 'tomcat-native', 'tomcat8']"
+CVE-2016-0763,"['org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'httpd24', 'tomcat7', 'mod_security-jws3', 'tomcat8']"
+CVE-2016-0779,"['org.apache.tomee openejb-core', 'org.apache.tomee arquillian-tomee-embedded', 'org.apache.openejb openejb-client', 'org.apache.tomee openejb-client', 'org.apache.openejb openejb-core', 'org.apache.openejb arquillian-tomee-common', 'org.apache.tomee arquillian-tomee-common', 'org.apache.openejb arquillian-tomee-embedded']"
+CVE-2016-0781,"['org.cloudfoundry.identity cloudfoundry-identity-login', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-0782,['org.apache.activemq activemq-web-console']
+CVE-2016-0785,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-0788,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-0789,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-0790,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-0791,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-0792,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-0793,['org.wildfly wildfly-undertow']
+CVE-2016-0956,['org.apache.sling org.apache.sling.servlets.post']
+CVE-2016-1000031,"['org.apache.tomcat.embed tomcat-embed-core', 'commons-fileupload commons-fileupload', 'org.apache.tomcat tomcat-coyote']"
+CVE-2016-1000232,"['rh-nodejs4-nodejs-tough-cookie', 'org.webjars.npm tough-cookie', 'tough-cookie', 'nodejs-tough-cookie', 'nodejs']"
+CVE-2016-10006,['org.owasp.antisamy antisamy']
+CVE-2016-10027,"['org.igniterealtime.smack smack-core', 'org.igniterealtime.smack smack-tcp']"
+CVE-2016-10521,"['org.webjars jshamcrest', 'jshamcrest', 'org.webjars.npm jshamcrest']"
+CVE-2016-10531,"['org.webjars.bower marked', 'marked', 'org.webjars.npm marked', 'org.webjars marked']"
+CVE-2016-10538,"['org.webjars.npm cli', 'cli']"
+CVE-2016-10547,"['nunjucks', 'org.webjars.npm nunjucks']"
+CVE-2016-10703,"['org.webjars.npm ecstatic', 'ecstatic']"
+CVE-2016-10707,"['org.webjars jquery', 'org.webjars.bower jqurey', 'jquery', 'org.webjars.bower jquery', 'org.webjars.npm jquery']"
+CVE-2016-10750,"['com.hazelcast hazelcast-spring', 'com.hazelcast hazelcast']"
+CVE-2016-1181,"['org.apache.struts struts-core', 'struts struts']"
+CVE-2016-1182,"['org.apache.struts struts-core', 'struts struts']"
+CVE-2016-2162,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-2166,"['org.apache.servicemix.bundles org.apache.servicemix.bundles.qpid', 'org.apache.qpid proton-j', 'python_qpid_proton']"
+CVE-2016-2171,['org.apache.portals.jetspeed-2 jetspeed-security']
+CVE-2016-2173,['org.springframework.amqp spring-amqp']
+CVE-2016-2175,"['org.apache.tika tika-app', 'org.apache.tika tika-server', 'org.mapfish.print print-standalone', 'org.apache.pdfbox pdfbox-app', 'org.apache.pdfbox preflight-app', 'org.apache.pdfbox debugger-app', 'org.apache.pdfbox pdfbox', 'org.apache.pdfbox xmpbox', 'org.apache.pdfbox jempbox']"
+CVE-2016-2402,"['com.squareup.okhttp3 okhttp', 'org.graylog.telemetry graylog-telemetry-plugin', 'org.graylog2 graylog2', 'fr.mmarie gitlab-jira-integration-application', 'com.etsy statsd-jvm-profiler', 'com.squareup.okhttp okhttp', 'io.paradoxical cassieq-core', 'com.github.sakserv hadoop-mini-clusters-hbase', 'org.sonarsource.sonarqube sonar-scanner-engine-shaded', 'org.graylog2 graylog2-server']"
+CVE-2016-2427,"['org.bouncycastle bcprov-jdk15on', 'org.bouncycastle bcprov-ext-jdk15on', 'org.bouncycastle bcprov-jdk14', 'org.bouncycastle bcprov-ext-jdk14']"
+CVE-2016-2510,"['org.beanshell bsh', 'bsh bsh', 'org.apache-extras.beanshell bsh', 'org.beanshell bsh-core']"
+CVE-2016-2537,"['is-my-json-valid', 'org.webjars.npm is-my-json-valid']"
+CVE-2016-3081,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-3082,['org.apache.struts struts2-core']
+CVE-2016-3083,"['org.apache.hive hive-service', 'org.apache.hive hive-jdbc']"
+CVE-2016-3084,"['org.cloudfoundry.identity cloudfoundry-identity-login', 'org.cloudfoundry.identity cloudfoundry-identity-scim', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-3086,"['org.apache.hadoop hadoop-yarn-server-nodemanager', 'org.apache.hadoop hadoop-common']"
+CVE-2016-3087,"['org.apache.struts struts2-rest-plugin', 'org.apache.struts struts2-core']"
+CVE-2016-3088,"['org.apache.activemq activemq-fileserver', 'org.apache.activemq apache-activemq']"
+CVE-2016-3090,"['org.apache.struts struts2-core', 'com.opensymphony xwork-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-3093,"['com.opensymphony xwork-core', 'org.apache.click click', 'org.apache.struts.xwork xwork-core', 'org.apache.struts struts2-core', 'org.jopendocument jOpenDocument', 'org.kaazing mina.netty', 'ognl ognl']"
+CVE-2016-3094,['org.apache.qpid qpid-broker-core']
+CVE-2016-3674,"['com.github.kislayverma.rulette rulette-rest', 'org.duracloud.mill workman', 'org.duracloud.mill loopingduptaskproducer', 'org.duracloud.mill manifest-cleaner', 'org.graylog2 graylog2-radio', 'io.rhiot rhiot-gateway-app', 'com.wix runnable-petri-server', 'com.tocea.scertify.maven maven-scertify-plugin', 'net.lightbody.bmp browsermob-dist', 'org.duracloud.mill taskreadertool', 'org.kevoree.modeling org.kevoree.modeling.generator.standalone', 'com.iveely com.iveely.framework', 'org.graylog2 graylog2', 'org.apache.taverna.language taverna-tavlang-tool', 'org.duracloud account-management-db-util', 'org.codehaus.cuanto cuanto-api', 'org.duracloud.mill taskproducertool', 'org.graylog2 graylog2-bootstrap', 'org.apache.geronimo.gshell gshell-embeddable', 'org.duracloud.mill manifest-builder', 'org.jbehave jbehave-core', 'com.iveely com.iveely.computing', 'com.thoughtworks.xstream xstream', 'org.duracloud.mill auditlog-generator', 'org.duracloud synctoolui', 'org.apache.servicemix.bundles org.apache.servicemix.bundles.xstream-1.2.2', 'com.marvelution.jira.plugins jira-hudson-plugin', 'org.graylog2 graylog2-server', 'com.sonatype.clm clm-maven-plugin']"
+CVE-2016-3720,"['org.kill-bill.billing.plugin.java accertify-plugin', 'com.fasterxml.jackson.dataformat jackson-dataformat-xml', 'com.smoketurner.notification notification-application', 'org.spincast spincast-quickstart', 'com.eclipsesource.jaxrs swagger-all', 'org.spincast spincast-website', 'com.smoketurner.snowizard snowizard-application', 'com.smoketurner.pipeline pipeline-application', 'com.github.mtakaki credential-storage', 'com.danielflower.apprunner app-runner', 'io.paradoxical cassieq-core']"
+CVE-2016-3721,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3722,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3723,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3724,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3725,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3726,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-3727,"['openshift-origin-msg-node-mcollective', 'openshift-origin-cartridge-mongodb', 'openshift-origin-cartridge-python', 'openshift-origin-cartridge-perl', 'openshift-origin-cartridge-jbosseap', 'rubygem-openshift-origin-frontend-haproxy-sni-proxy', 'openshift-origin-cartridge-php', 'openshift-origin-cartridge-ruby', 'rubygem-openshift-origin-msg-broker-mcollective', 'rubygem-openshift-origin-admin-console', 'openshift-origin-cartridge-jenkins-client', 'libcgroup', 'openshift-origin-node-util', 'jenkins', 'openshift-origin-cartridge-jbossews', 'openshift-origin-broker', 'jenkins-plugin-openshift-pipeline', 'openshift-origin-cartridge-nodejs', 'imagemagick', 'openshift-origin-cartridge-diy', 'openshift-origin-cartridge-mysql', 'rhc', 'activemq', 'rubygem-openshift-origin-controller', 'openshift-origin-broker-util', 'openshift-origin-cartridge-haproxy', 'openshift-origin-cartridge-jenkins', 'openshift-origin-cartridge-cron', 'rubygem-openshift-origin-routing-daemon', 'openshift-origin-node-proxy', 'rubygem-openshift-origin-node']"
+CVE-2016-4000,"['org.python jython-standalone', 'org.python jython']"
+CVE-2016-4003,['org.apache.struts struts2-core']
+CVE-2016-4055,"['org.webjars.npm moment', 'moment', 'org.webjars.bower moment', 'org.webjars.bower momentjs', 'org.webjars momentjs']"
+CVE-2016-4216,['com.adobe.xmp xmpcore']
+CVE-2016-4430,['org.apache.struts struts2-core']
+CVE-2016-4431,['org.apache.struts struts2-core']
+CVE-2016-4432,"['org.apache.qpid qpid-broker-plugins-amqp-0-10-protocol', 'org.apache.qpid qpid-broker-plugins-amqp-0-8-protocol']"
+CVE-2016-4433,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-4434,"['org.apache.tika tika-bundle', 'org.apache.tika tika-parsers']"
+CVE-2016-4436,"['org.apache.struts struts2-rest-plugin', 'org.apache.struts struts2-core']"
+CVE-2016-4437,"['org.graylog2 graylog2-bootstrap', 'org.graylog2 graylog2', 'org.apache.shiro shiro-all', 'com.meltmedia.cadmium cadmium-cli', 'org.apache.shiro shiro-core', 'org.graylog2 graylog2-server']"
+CVE-2016-4438,"['org.apache.struts struts2-rest-plugin', 'org.apache.struts struts2-core', 'org.apache.struts struts2-json-plugin', 'org.apache.struts struts2-tiles-plugin', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-4461,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-4464,['org.apache.cxf.fediz fediz-core']
+CVE-2016-4465,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2016-4467,['org.apache.qpid proton-project']
+CVE-2016-4468,"['org.cloudfoundry.identity cloudfoundry-identity-uaa', 'org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-4567,"['org.webjars mediaelement', 'mediaelement', 'org.webjars.bower mediaelement']"
+CVE-2016-4800,"['com.elastisys.scale cloudpool.openstack', 'com.elastisys.scale cloudpool.aws.spot', 'io.advantageous.qbit qbit-jetty', 'com.iveely com.iveely.framework', 'com.elastisys.scale cloudpool.citycloud', 'com.iveely com.iveely.computing', 'com.elastisys.scale cloudpool.aws.autoscaling', 'com.elastisys.scale cloudpool.aws.ec2', 'org.eclipse.jetty jetty-util', 'com.danielflower.apprunner app-runner', 'org.apache.jena jena-fuseki-server', 'com.qmetric penfold_2.11']"
+CVE-2016-4970,"['com.puresoltechnologies.purifinity.server passwordstore.ddl', 'com.puresoltechnologies.purifinity.server server.ddl', 'com.etsy statsd-jvm-profiler', 'io.netty netty-handler', 'org.apache.storm storm-starter', 'gr.iti.mklab mklab-stream-manager', 'io.fabric8.insight insight-rhq-metrics', 'io.advantageous.qbit qbit-vertx', 'com.github.brandtg switchboard-file', 'com.puresoltechnologies.purifinity.plugins metrics.ddl', 'com.orange.redis-protocol netty4-server', 'com.graphaware.neo4j resttest', 'net.lightbody.bmp browsermob-dist', 'com.github.kislayverma.rulette rulette-rest', 'org.graylog2 graylog2', 'org.neo4j.doc neo4j-graphgist', 'com.puresoltechnologies.purifinity.server global.ddl', 'net.scattersphere scattersphere-cli', 'org.apache.bigtop.itest fat-smoke', 'com.github.brandtg switchboard-mysql', 'com.github.brandtg switchboard-hdfs', 'org.graylog2 graylog2-bootstrap', 'io.netty netty-all', 'com.uber.tchannel tchannel-hyperbahn', 'com.smoketurner.notification notification-application', 'net.scattersphere scattersphere-core', 'org.graylog2 graylog2-server', 'org.neo4j.doc neo4j-cypherdoc', 'com.puresoltechnologies.purifinity.server systemmonitor.ddl', 'com.github.sakserv hadoop-mini-clusters-hbase', 'com.data-artisans cascading-flink']"
+CVE-2016-4974,"['org.apache.qpid qpid-java-build', 'org.apache.qpid qpid-jms-client']"
+CVE-2016-4977,['org.springframework.security.oauth spring-security-oauth2']
+CVE-2016-4999,['org.dashbuilder dashbuilder-dataset-sql']
+CVE-2016-5000,['org.apache.poi poi-examples']
+CVE-2016-5001,['org.apache.hadoop hadoop-hdfs']
+CVE-2016-5002,"['org.apache.xmlrpc xmlrpc-common', 'org.apache.xmlrpc xmlrpc-client', 'org.apache.xmlrpc xmlrpc', 'org.apache.xmlrpc xmlrpc-server']"
+CVE-2016-5003,"['xmlrpc', 'org.apache.xmlrpc xmlrpc-server', 'xmlrpc-common', 'org.apache.xmlrpc xmlrpc', 'xmlrpc3', 'rh-java-common-xmlrpc']"
+CVE-2016-5007,"['org.springframework spring-webmvc', 'org.springframework.security spring-security-web', 'org.springframework.security spring-security-config']"
+CVE-2016-5016,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-5019,"['org.apache.myfaces.trinidad trinidad-build', 'org.apache.myfaces.trinidad trinidad-api', 'org.apache.myfaces.trinidad trinidad-partial-lifecycle', 'org.apache.myfaces.trinidad trinidad-impl']"
+CVE-2016-5388,"['org.apache.tomcat tomcat', 'org.apache.tomcat tomcat-catalina', 'httpd24', 'tomcat7', 'tomcat6', 'tomcat8']"
+CVE-2016-5393,['org.apache.hadoop hadoop-common']
+CVE-2016-5394,['org.apache.sling org.apache.sling.xss']
+CVE-2016-5395,['org.apache.ranger ranger']
+CVE-2016-5682,"['org.webjars swagger-ui', 'org.webjars.npm swagger-ui', 'swagger-ui']"
+CVE-2016-5725,['com.jcraft jsch']
+CVE-2016-6345,['org.jboss.resteasy resteasy-jaxrs']
+CVE-2016-6347,['org.jboss.resteasy resteasy-jaxrs']
+CVE-2016-6348,['org.jboss.resteasy resteasy-jaxrs']
+CVE-2016-6636,"['org.cloudfoundry.identity cloudfoundry-identity-login', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-6637,"['org.cloudfoundry.identity cloudfoundry-identity-login', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-6651,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-6652,['org.springframework.data spring-data-jpa']
+CVE-2016-6659,"['org.cloudfoundry.identity cloudfoundry-identity-uaa', 'org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2016-6793,['org.apache.wicket wicket-util']
+CVE-2016-6794,"['mod_cluster', 'tomcat tomcat-util', 'org.apache.tomcat tomcat-catalina', 'tomcat7', 'org.apache.tomcat tomcat-util-scan', 'hibernate4-eap6', 'org.apache.tomcat catalina', 'tomcat-vault', 'org.apache.tomcat tomcat-util', 'tomcat-native', 'tomcat8']"
+CVE-2016-6795,['org.apache.struts struts2-core']
+CVE-2016-6797,"['mod_cluster', 'tomcat catalina', 'org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'tomcat7', 'hibernate4-eap6', 'org.apache.tomcat catalina', 'tomcat-vault', 'tomcat-native', 'tomcat8']"
+CVE-2016-6798,['org.apache.sling org.apache.sling.xss']
+CVE-2016-6801,['org.apache.jackrabbit jackrabbit-webdav']
+CVE-2016-6802,['org.apache.shiro shiro-web']
+CVE-2016-6805,['org.apache.ignite ignite-core']
+CVE-2016-6806,['org.apache.wicket wicket-core']
+CVE-2016-6809,"['org.apache.tika tika-parsers', 'net.sourceforge.jmatio jmatio']"
+CVE-2016-6810,['org.apache.activemq activemq-web-console']
+CVE-2016-6811,"['org.apache.hadoop hadoop-yarn-server-nodemanager', 'org.apache.hadoop hadoop-common']"
+CVE-2016-6812,['org.apache.cxf cxf-rt-transports-http']
+CVE-2016-6814,"['org.codehaus.groovy groovy-all', 'groovy', 'org.codehaus.groovy groovy', 'rh-maven33-groovy']"
+CVE-2016-6815,['org.apache.ranger ranger-kafka-plugin']
+CVE-2016-6817,['org.apache.tomcat tomcat-coyote']
+CVE-2016-7043,['org.kie.server kie-server-common']
+CVE-2016-7051,['com.fasterxml.jackson.dataformat jackson-dataformat-xml']
+CVE-2016-8629,"['rh-sso7-keycloak', 'org.keycloak keycloak-services']"
+CVE-2016-8735,"['mod_cluster', 'org.apache.tomcat tomcat-catalina', 'tomcat7', 'hibernate4-eap6', 'org.apache.tomcat catalina', 'tomcat-vault', 'org.apache.tomcat tomcat-catalina-jmx-remote', 'tomcat-native', 'tomcat8']"
+CVE-2016-8737,"['org.apache.brooklyn brooklyn', 'org.apache.brooklyn brooklyn-rest-resources', 'org.apache.brooklyn brooklyn-utils-common']"
+CVE-2016-8738,['org.apache.struts struts2-core']
+CVE-2016-8739,['org.apache.cxf cxf-rt-rs-extension-providers']
+CVE-2016-8741,['org.apache.qpid qpid-broker-core']
+CVE-2016-8744,['org.apache.brooklyn brooklyn-utils-common']
+CVE-2016-8745,"['mod_cluster', 'org.apache.tomcat coyote', 'org.apache.tomcat tomcat-catalina', 'tomcat7', 'tomcat6', 'hibernate4-eap6', 'org.apache.tomcat tomcat-coyote', 'tomcat-vault', 'org.apache.tomcat tomcat-util', 'tomcat-native', 'tomcat8']"
+CVE-2016-8746,['org.apache.ranger ranger-plugins-common']
+CVE-2016-8747,['org.apache.tomcat tomcat-coyote']
+CVE-2016-8749,"['org.apache.camel camel-jacksonxml', 'org.apache.camel camel-jackson']"
+CVE-2016-8750,['org.apache.karaf.jaas org.apache.karaf.jaas.modules']
+CVE-2016-8751,['org.apache.ranger ranger-plugins-common']
+CVE-2016-9177,['com.sparkjava spark-core']
+CVE-2016-9487,['org.idpf epubcheck']
+CVE-2016-9878,['org.springframework spring-webmvc']
+CVE-2016-9879,['org.springframework.security spring-security-web']
+CVE-2017-1000006,"['plotly.js', 'org.webjars.bower plotly.js', 'org.webjars.npm plotly.js']"
+CVE-2017-1000034,"['com.typesafe.akka akka-remote_2.11', 'com.typesafe.akka akka-actor_2.11', 'com.typesafe.akka akka-actor_2.10']"
+CVE-2017-1000048,"['qs', 'org.webjars.npm qs', 'rh-nodejs6-nodejs-qs']"
+CVE-2017-1000085,"['rubygem-fluent-plugin-kubernetes_metadata_filter', 'fluentd', 'rubygem-faraday', 'rubygem-systemd-journal', 'kibana', 'rubygem-excon', 'rubygem-i18n', 'atomic-openshift', 'rubygem-cool.io', 'rubygem-fluent-plugin-viaq_data_model']"
+CVE-2017-1000089,"['rubygem-fluent-plugin-kubernetes_metadata_filter', 'fluentd', 'rubygem-faraday', 'rubygem-systemd-journal', 'kibana', 'rubygem-excon', 'rubygem-i18n', 'atomic-openshift', 'rubygem-cool.io', 'rubygem-fluent-plugin-viaq_data_model']"
+CVE-2017-1000092,"['rubygem-fluent-plugin-kubernetes_metadata_filter', 'fluentd', 'rubygem-faraday', 'rubygem-systemd-journal', 'kibana', 'rubygem-excon', 'rubygem-i18n', 'atomic-openshift', 'rubygem-cool.io', 'rubygem-fluent-plugin-viaq_data_model']"
+CVE-2017-1000096,"['rubygem-fluent-plugin-kubernetes_metadata_filter', 'fluentd', 'rubygem-faraday', 'rubygem-systemd-journal', 'kibana', 'rubygem-excon', 'rubygem-i18n', 'atomic-openshift', 'rubygem-cool.io', 'rubygem-fluent-plugin-viaq_data_model']"
+CVE-2017-1000118,"['com.typesafe.akka akka-http', 'com.typesafe.akka akka-http_2.11', 'com.typesafe.akka akka-http_2.12']"
+CVE-2017-1000190,['org.simpleframework simple-xml']
+CVE-2017-1000207,"['io.swagger swagger-codegen', 'io.swagger swagger-codegen-cli', 'io.swagger swagger-parser']"
+CVE-2017-1000208,"['io.swagger swagger-codegen', 'io.swagger swagger-codegen-cli', 'io.swagger swagger-parser']"
+CVE-2017-1000209,['com.neovisionaries nv-websocket-client']
+CVE-2017-1000243,"['org.hudsonci.plugins favorite', 'org.jvnet.hudson.plugins favorite']"
+CVE-2017-1000244,"['org.hudsonci.plugins favorite', 'org.jvnet.hudson.plugins favorite']"
+CVE-2017-1000387,['org.jvnet.hudson.plugins build-publisher']
+CVE-2017-1000389,['org.jvnet.hudson.plugins global-build-stats']
+CVE-2017-1000403,['org.jvnet.hudson.plugins speaks']
+CVE-2017-1000427,"['org.webjars.bower marked', 'org.webjars.npm marked', 'marked']"
+CVE-2017-1000486,['org.primefaces primefaces']
+CVE-2017-1000487,['org.codehaus.plexus plexus-utils']
+CVE-2017-1000500,"['org.keycloak keycloak-wildfly-server-subsystem', 'org.keycloak keycloak-saml-core']"
+CVE-2017-10687,['libsass.so']
+CVE-2017-10910,['mqtt']
+CVE-2017-11467,['com.orientechnologies orientdb-core']
+CVE-2017-12158,"['rh-sso7-keycloak', 'org.keycloak keycloak-services']"
+CVE-2017-12159,"['rh-sso7-keycloak', 'org.keycloak keycloak-services']"
+CVE-2017-12160,"['rh-sso7-keycloak', 'org.keycloak keycloak-services']"
+CVE-2017-12161,['org.keycloak keycloak-core']
+CVE-2017-12196,"['eap7-jackson-module-jaxb-annotations', 'eap7-picketlink-bindings', 'eap7-undertow', 'eap7-undertow-jastow', 'eap7-glassfish-jsf', 'io.undertow undertow-core', 'eap7-hibernate', 'eap7-xml-security', 'eap7-jackson-modules-java8', 'eap7-ironjacamar', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jackson-jaxrs-providers', 'eap7-jbossws-cxf', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jboss-ec2-eap', 'eap7-wss4j', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-wildfly-elytron', 'eap7-resteasy']"
+CVE-2017-12197,"['rh-sso7-keycloak', 'org.kohsuke libpam4j', 'org.glassfish.main.external libpam4j-repackaged', 'org.abstractj libpam4j', 'org.jvnet.libpam4j libpam4j', 'org.glassfish.external libpam4j-repackaged']"
+CVE-2017-12610,['org.apache.kafka kafka-clients']
+CVE-2017-12611,['org.apache.struts struts2-core']
+CVE-2017-12612,"['org.apache.spark spark-launcher_2.11', 'org.apache.spark spark-launcher_2.10']"
+CVE-2017-12615,"['httpd', 'mod_cluster-native', 'org.apache.tomcat tomcat-catalina', 'jbcs-httpd24-openssl', 'httpd22', 'tomcat7', 'tomcat6', 'tomcat-vault', 'mod_cluster', 'tomcat-native', 'tomcat8']"
+CVE-2017-12616,"['tomcat7', 'tomcat-native', 'org.apache.tomcat tomcat-catalina', 'mod_cluster', 'tomcat-vault', 'tomcat8']"
+CVE-2017-12619,['org.apache.zeppelin zeppelin-zengine']
+CVE-2017-12620,"['org.apache.opennlp opennlp-uima', 'org.apache.opennlp opennlp-tools']"
+CVE-2017-12621,['commons-jelly commons-jelly']
+CVE-2017-12622,['org.apache.geode geode-core']
+CVE-2017-12623,['org.apache.nifi nifi-framework-core']
+CVE-2017-12624,"['eap7-wildfly-transaction-client', 'eap7-wildfly-openssl-linux', 'eap7-jboss-ejb-client', 'eap7-picketlink-bindings', 'eap7-bouncycastle', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'org.apache.cxf.systests cxf-systests-jaxrs', 'eap7-ironjacamar', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'org.apache.cxf cxf-rt-frontend-jaxrs', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-narayana', 'org.apache.cxf cxf-core', 'eap7-jboss-remoting', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-guava-libraries', 'eap7-picketlink-federation', 'eap7-mod_cluster', 'eap7-jberet', 'eap7-resteasy']"
+CVE-2017-12625,['org.apache.hive hive-exec']
+CVE-2017-12626,"['org.apache.poi poi-scratchpad', 'org.apache.poi poi']"
+CVE-2017-12628,['org.apache.james james-server']
+CVE-2017-12629,"['eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'org.apache.lucene lucene-xml-query-parser', 'eap7-hibernate', 'eap7-ironjacamar', 'eap7-jboss-remoting', 'rh-java-common-lucene5', 'rh-java-common-lucene', 'eap7-jboss-xnio-base', 'eap7-jboss-ec2-eap', 'eap7-jgroups', 'org.apache.lucene lucene-queryparser', 'eap7-undertow', 'eap7-lucene-solr', 'org.apache.solr solr-core', 'eap7-wildfly', 'eap7-resteasy']"
+CVE-2017-12630,['org.apache.drill.exec drill-java-exec']
+CVE-2017-12631,"['org.apache.cxf.fediz fediz-spring3', 'org.apache.cxf.fediz fediz-spring2', 'org.apache.cxf.fediz fediz-spring']"
+CVE-2017-12632,"['org.apache.nifi nifi-jetty', 'org.apache.nifi nifi-jetty-bundle']"
+CVE-2017-12633,['org.apache.camel camel-hessian']
+CVE-2017-12634,['org.apache.camel camel-castor']
+CVE-2017-12645,"['com.liferay.portal com.liferay.portal.impl', 'com.liferay.portal portal-impl']"
+CVE-2017-12647,"['com.liferay com.liferay.knowledge.base.service', 'com.liferay.portal util-taglib']"
+CVE-2017-12648,['com.liferay com.liferay.frontend.taglib']
+CVE-2017-12972,['com.nimbusds nimbus-jose-jwt']
+CVE-2017-12973,['com.nimbusds nimbus-jose-jwt']
+CVE-2017-12974,['com.nimbusds nimbus-jose-jwt']
+CVE-2017-13098,"['org.bouncycastle bcprov-ext-jdk15on', 'bouncycastle', 'com.madgag.spongycastle bctls-jdk15on', 'org.bouncycastle bctls-jdk15on', 'org.bouncycastle bcmail-jdk15on', 'org.bouncycastle bctest-jdk15on', 'org.bouncycastle bcpg-jdk15on', 'org.bouncycastle bcprov-jdk15on', 'org.bouncycastle bcpkix-jdk15on']"
+CVE-2017-14063,['org.asynchttpclient async-http-client']
+CVE-2017-14735,"['org.owasp.antisamy antisamy', 'org.owasp antisamy']"
+CVE-2017-15010,"['rh-nodejs6-nodejs-tough-cookie', 'supervisor', 'rh-nodejs4-nodejs-tough-cookie', 'fping', 'redis', 'nagios', 'nagios-plugins', 'fh-system-dump-tool', 'tough-cookie', 'org.webjars.npm tough-cookie', 'rhmap-fh-openshift-templates']"
+CVE-2017-15089,"['eap7-jackson-module-jaxb-annotations', 'eap7-picketlink-bindings', 'eap7-undertow', 'org.infinispan infinispan-client-hotrod', 'eap7-undertow-jastow', 'eap7-glassfish-jsf', 'eap7-hibernate', 'eap7-xml-security', 'eap7-jackson-modules-java8', 'eap7-ironjacamar', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jackson-jaxrs-providers', 'eap7-jbossws-cxf', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jboss-ec2-eap', 'eap7-wss4j', 'org.infinispan infinispan-commons', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-wildfly-elytron', 'eap7-resteasy']"
+CVE-2017-15288,['org.scala-lang scala-compiler']
+CVE-2017-15691,"['org.apache.uima uimaj-core', 'org.apache.uima uimaj-tools', 'org.apache.uima jVinci', 'org.apache.uima uimaj-adapter-vinci']"
+CVE-2017-15692,['org.apache.geode geode-core']
+CVE-2017-15693,['org.apache.geode geode-core']
+CVE-2017-15694,['org.apache.geode geode-core']
+CVE-2017-15695,['org.apache.geode geode-core']
+CVE-2017-15696,['org.apache.geode geode-core']
+CVE-2017-15697,"['org.apache.nifi nifi-websocket-services-jetty', 'org.apache.nifi nifi-properties', 'org.apache.nifi nifi-jetty', 'org.apache.nifi nifi-web-utils', 'org.apache.nifi nifi-commons', 'org.apache.nifi nifi-standard-processors']"
+CVE-2017-15700,['org.apache.sling org.apache.sling.auth.core']
+CVE-2017-15701,['org.apache.qpid qpid-broker-plugins-amqp-1-0-protocol']
+CVE-2017-15702,['org.apache.qpid qpid-broker-core']
+CVE-2017-15703,['org.apache.nifi nifi-framework-core']
+CVE-2017-15706,['org.apache.tomcat tomcat']
+CVE-2017-15707,"['net.sf.json-lib json-lib', 'org.apache.struts struts2-rest-plugin', 'org.apache.struts struts2-core']"
+CVE-2017-15708,['org.apache.synapse Apache-Synapse']
+CVE-2017-15709,['org.apache.activemq activemq-client']
+CVE-2017-15712,['org.apache.oozie oozie-core']
+CVE-2017-15713,['org.apache.hadoop hadoop-common']
+CVE-2017-15717,['org.apache.sling org.apache.sling.xss']
+CVE-2017-15718,"['org.apache.hadoop hadoop-yarn-server-nodemanager', 'org.apache.hadoop hadoop-common']"
+CVE-2017-15719,"['com.googlecode.wicket-jquery-ui wicket-jquery-ui-plugins', 'com.googlecode.wicket-jquery-ui wicket-kendo-ui']"
+CVE-2017-16006,"['remarkable', 'org.webjars.bower remarkable', 'org.webjars remarkable']"
+CVE-2017-16008,"['org.webjars i18next', 'i18next']"
+CVE-2017-16010,"['i18next', 'org.webjars.bower i18next']"
+CVE-2017-16026,"['org.webjars.npm request', 'org.webjars request', 'request']"
+CVE-2017-16028,"['randomatic', 'org.webjars.npm randomatic', 'react-native-meteor-oauth']"
+CVE-2017-16042,['growl']
+CVE-2017-16114,"['org.webjars.bower marked', 'marked', 'org.webjars.npm marked', 'org.webjars marked']"
+CVE-2017-16115,['timespan']
+CVE-2017-16116,"['string', 'org.webjars.npm string']"
+CVE-2017-16119,"['org.webjars.npm fresh', 'fresh']"
+CVE-2017-16129,['superagent']
+CVE-2017-16136,['method-override']
+CVE-2017-16137,['debug']
+CVE-2017-17068,"['auth0.js', 'org.webjars.bower auth0.js', 'org.webjars.npm auth0-js', 'auth0-js']"
+CVE-2017-17837,"['org.apache.deltaspike.modules deltaspike-jsf-module-impl', 'org.apache.deltaspike.modules deltaspike-jsf-module-impl-ee6']"
+CVE-2017-18077,"['brace-expansion', 'org.webjars.npm brace-expansion']"
+CVE-2017-18197,"['mxgraph', 'org.webjars.npm mxgraph', 'org.webjars.bower mxgraph']"
+CVE-2017-18214,"['org.webjars.npm moment', 'moment', 'org.webjars.bower moment', 'org.webjars momentjs']"
+CVE-2017-18239,"['com.jason-goodwin authentikat-jwt_2.10', 'com.jason-goodwin authentikat-jwt_2.11', 'com.jason-goodwin authentikat-jwt_2.12']"
+CVE-2017-18349,"['ro.pippo pippo-fastjson', 'com.alibaba fastjson']"
+CVE-2017-2585,"['rh-sso7-keycloak', 'org.keycloak keycloak-core', 'org.keycloak keycloak-server-spi-private']"
+CVE-2017-2594,['io.hawt hawtio-system']
+CVE-2017-2617,['io.hawt hawtio-system']
+CVE-2017-2638,"['org.infinispan.server infinispan-server-endpoints', 'org.infinispan infinispan-server-core']"
+CVE-2017-2646,['org.keycloak keycloak-saml-core']
+CVE-2017-2649,['org.hudsonci.plugins active-directory']
+CVE-2017-2652,['org.jvnet.hudson.plugins distfork']
+CVE-2017-3150,['org.apache.atlas atlas-webapp']
+CVE-2017-3151,['org.apache.atlas atlas-dashboardv2']
+CVE-2017-3152,['org.apache.atlas atlas-dashboardv2']
+CVE-2017-3153,['org.apache.atlas atlas-dashboardv2']
+CVE-2017-3154,['org.apache.atlas atlas-webapp']
+CVE-2017-3155,['org.apache.atlas atlas-dashboardv2']
+CVE-2017-3156,"['org.apache.cxf cxf-rt-rs-security-jose', 'org.apache.cxf cxf-rt-rs-security-oauth2', 'org.apache.cxf cxf-rt-rs-security-oauth2-jose']"
+CVE-2017-3159,['org.apache.camel camel-snakeyaml']
+CVE-2017-3161,['org.apache.hadoop hadoop-hdfs']
+CVE-2017-3162,['org.apache.hadoop hadoop-hdfs']
+CVE-2017-3164,['org.apache.solr solr-core']
+CVE-2017-3165,['org.apache.brooklyn brooklyn-jsgui']
+CVE-2017-3166,['org.apache.hadoop hadoop-mapreduce-client-core']
+CVE-2017-3200,['org.graniteds granite-generator']
+CVE-2017-3201,['com.exadel.flamingo.flex amf-serializer']
+CVE-2017-3202,['com.exadel.flamingo.flex amf-serializer']
+CVE-2017-3206,['com.exadel.flamingo.flex amf-serializer']
+CVE-2017-3523,['mysql mysql-connector-java']
+CVE-2017-3586,['mysql mysql-connector-java']
+CVE-2017-3589,['mysql mysql-connector-java']
+CVE-2017-4947,['com.vmware.xenon xenon-common']
+CVE-2017-4952,['com.vmware.xenon xenon-common']
+CVE-2017-4960,"['org.cloudfoundry.identity cloudfoundry-identity-uaa', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4963,"['org.cloudfoundry.identity cloudfoundry-identity-uaa', 'org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4971,['org.springframework.webflow spring-webflow']
+CVE-2017-4972,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4973,"['org.cloudfoundry.identity cloudfoundry-identity-uaa', 'org.cloudfoundry.identity cloudfoundry-identity-scim', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4974,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4991,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4992,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2017-4994,"['org.cloudfoundry.identity cloudfoundry-identity-common', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-4995,['org.springframework.security spring-security-core']
+CVE-2017-5617,"['com.metsci.ext.com.kitfox.svg svg-salamander', 'com.kitfox.svg svg-salamander']"
+CVE-2017-5635,"['org.apache.nifi nifi-web-security', 'org.apache.nifi nifi-framework-authorization']"
+CVE-2017-5636,['org.apache.nifi nifi-web-security']
+CVE-2017-5637,['org.apache.zookeeper zookeeper']
+CVE-2017-5638,['org.apache.struts struts2-core']
+CVE-2017-5641,['org.apache.flex.blazeds flex-messaging-core']
+CVE-2017-5643,['org.apache.camel camel-core']
+CVE-2017-5644,"['org.apache.poi poi-ooxml', 'org.apache.poi poi']"
+CVE-2017-5646,['org.apache.knox gateway-provider-identity-assertion-common']
+CVE-2017-5647,"['tomcat-native', 'org.apache.tomcat coyote', 'org.apache.tomcat.embed tomcat-embed-core', 'jbcs-httpd24-openssl', 'tomcat7', 'tomcat6', 'org.apache.tomcat tomcat-coyote', 'org.apache.tomcat tomcat-util', 'log4j-eap6', 'tomcat8']"
+CVE-2017-5648,"['tomcat-native', 'org.apache.tomcat tomcat-catalina', 'org.apache.tomcat.embed tomcat-embed-core', 'tomcat7', 'log4j-eap6', 'tomcat8']"
+CVE-2017-5649,['org.apache.geode geode-pulse']
+CVE-2017-5650,"['org.apache.tomcat.embed tomcat-embed-core', 'org.apache.tomcat tomcat-coyote']"
+CVE-2017-5651,"['org.apache.tomcat.embed tomcat-embed-core', 'org.apache.tomcat tomcat-coyote']"
+CVE-2017-5653,['org.apache.cxf cxf-rt-rs-security-xml']
+CVE-2017-5656,"['org.apache.cxf cxf-rt-ws-security', 'org.apache.cxf.services.sts cxf-services-sts-core']"
+CVE-2017-5657,"['org.apache.archiva archiva-rest-services', 'org.apache.archiva.redback redback-rest-services']"
+CVE-2017-5661,['org.apache.xmlgraphics fop']
+CVE-2017-5662,"['batik batik-dom', 'org.apache.xmlgraphics batik-dom']"
+CVE-2017-5878,['org.red5 red5-io']
+CVE-2017-7545,['org.jbpm jbpm-designer-backend']
+CVE-2017-7556,"['io.hawt hawtio-core', 'io.hawt hawtio-system']"
+CVE-2017-7561,"['eap7-jackson-module-jaxb-annotations', 'eap7-picketlink-bindings', 'eap7-undertow', 'eap7-undertow-jastow', 'eap7-glassfish-jsf', 'eap7-hibernate', 'eap7-xml-security', 'eap7-jackson-modules-java8', 'eap7-ironjacamar', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jboss-remoting', 'eap7-jackson-jaxrs-providers', 'eap7-jbossws-cxf', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jboss-ec2-eap', 'eap7-wss4j', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-jgroups', 'eap7-wildfly-elytron', 'org.jboss.resteasy resteasy-jaxrs', 'eap7-resteasy']"
+CVE-2017-7656,"['org.eclipse.jetty jetty-client', 'org.eclipse.jetty jetty-server', 'org.eclipse.jetty jetty-http']"
+CVE-2017-7657,"['org.eclipse.jetty jetty-client', 'org.eclipse.jetty jetty-server', 'org.eclipse.jetty jetty-http']"
+CVE-2017-7658,"['org.eclipse.jetty jetty-client', 'org.eclipse.jetty jetty-server', 'org.eclipse.jetty jetty-http']"
+CVE-2017-7660,['org.apache.solr solr-core']
+CVE-2017-7661,"['org.apache.cxf.fediz fediz-jetty9', 'org.apache.cxf.fediz fediz-jetty8', 'org.apache.cxf.fediz fediz-spring2', 'org.apache.cxf.fediz fediz-spring']"
+CVE-2017-7662,['org.apache.cxf.fediz fediz-oidc']
+CVE-2017-7665,"['org.apache.nifi nifi-framework-core', 'org.apache.nifi nifi-web-ui']"
+CVE-2017-7667,"['org.apache.nifi nifi-jetty', 'org.apache.nifi nifi-framework-core']"
+CVE-2017-7669,['org.apache.hadoop hadoop-yarn-server-nodemanager']
+CVE-2017-7672,['org.apache.struts struts2-core']
+CVE-2017-7674,"['tomcat7', 'tomcat-native', 'log4j-eap6', 'org.apache.tomcat tomcat-catalina', 'tomcat8']"
+CVE-2017-7675,['org.apache.tomcat tomcat-coyote']
+CVE-2017-7676,['org.apache.ranger ranger-plugins-common']
+CVE-2017-7677,"['org.apache.ranger ranger', 'org.apache.ranger ranger-hive-plugin']"
+CVE-2017-7678,"['org.apache.spark spark-core_2.10', 'org.apache.spark spark-core_2.11']"
+CVE-2017-7686,"['org.apache.ignite ignite-spring', 'org.apache.ignite ignite-core']"
+CVE-2017-7957,"['org.jvnet.hudson xstream', 'com.thoughtworks.xstream xstream', 'org.hudsonci.tools xstream', 'org.sonatype.nexus.xstream xstream']"
+CVE-2017-8028,['org.springframework.ldap spring-ldap-core']
+CVE-2017-8032,"['org.cloudfoundry.identity cloudfoundry-identity-scim', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2017-8039,['org.springframework.webflow spring-webflow']
+CVE-2017-8045,['org.springframework.amqp spring-amqp']
+CVE-2017-8046,"['org.springframework.data spring-data-rest-core', 'org.springframework.data spring-data-rest-webmvc', 'org.springframework.boot spring-boot-starter-data-rest', 'org.springframework.data spring-data-rest-hal-browser']"
+CVE-2017-9096,"['com.itextpdf itextpdf', 'com.itextpdf itext-pdfa']"
+CVE-2017-9735,"['org.eclipse.jetty jetty-jaspi', 'org.eclipse.jetty.aggregate jetty-all', 'org.eclipse.jetty jetty-security', 'org.eclipse.jetty jetty-util']"
+CVE-2017-9787,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2017-9791,['org.apache.struts struts2-showcase']
+CVE-2017-9793,['org.apache.struts struts2-rest-plugin']
+CVE-2017-9794,['org.apache.geode geode-core']
+CVE-2017-9795,['org.apache.geode geode-core']
+CVE-2017-9796,['org.apache.geode geode-core']
+CVE-2017-9797,['org.apache.geode geode-core']
+CVE-2017-9799,['org.apache.storm storm-core']
+CVE-2017-9801,['org.apache.commons commons-email']
+CVE-2017-9802,['org.apache.sling org.apache.sling.servlets.post']
+CVE-2017-9803,['org.apache.solr solr-core']
+CVE-2017-9804,"['org.apache.struts struts2-core', 'org.apache.struts.xwork xwork-core']"
+CVE-2017-9805,['org.apache.struts struts2-rest-plugin']
+CVE-2018-1000013,['org.jvnet.hudson.plugins release']
+CVE-2018-1000014,"['org.hudsonci.plugins translation', 'org.jvnet.hudson.plugins translation']"
+CVE-2018-1000110,['org.hudsonci.plugins git']
+CVE-2018-1000111,['org.hudsonci.plugins subversion']
+CVE-2018-1000112,['org.hudsonci.plugins mercurial']
+CVE-2018-1000125,['com.inversoft prime-jwt']
+CVE-2018-1000129,['org.jolokia jolokia-core']
+CVE-2018-1000130,['org.jolokia jolokia-jsr160']
+CVE-2018-1000134,"['com.unboundid unboundid-ldapsdk', 'unboundid-ldapsdk']"
+CVE-2018-1000147,"['org.jvnet.hudson.plugins perforce', 'org.hudsonci.plugins perforce']"
+CVE-2018-1000148,"['org.jvnet.hudson.plugins copy-to-slave', 'org.hudsonci.plugins copy-to-slave']"
+CVE-2018-1000175,['org.hudsonci.plugins htmlpublisher']
+CVE-2018-1000176,"['org.hudsonci.plugins email-ext', 'org.jvnet.hudson.plugins email-ext']"
+CVE-2018-1000180,"['eap7-wildfly-transaction-client', 'org.bouncycastle bcprov-ext-jdk15on', 'eap7-wildfly-openssl-linux', 'org.bouncycastle bcprov-jdk14', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-bouncycastle', 'eap7-picketlink-federation', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-picketlink-bindings', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'org.bouncycastle bcprov-jdk15on', 'eap7-narayana', 'org.bouncycastle bcprov-debug-jdk14', 'eap7-jboss-remoting', 'eap7-undertow', 'eap7-jboss-server-migration', 'org.bouncycastle bcprov-ext-debug-jdk15on', 'eap7-guava-libraries', 'org.bouncycastle bcprov-ext-jdk14', 'eap7-mod_cluster', 'org.bouncycastle bcprov-debug-jdk15on', 'eap7-jberet', 'eap7-resteasy']"
+CVE-2018-1000202,['org.hudsonci.plugins groovy-postbuild']
+CVE-2018-1000406,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000407,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000408,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000409,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000410,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000422,"['org.hudsonci.plugins crowd2', 'org.jvnet.hudson.plugins crowd2']"
+CVE-2018-1000531,['com.inversoft prime-jwt']
+CVE-2018-1000613,"['org.bouncycastle bcprov-ext-jdk15on', 'org.bouncycastle bcprov-jdk14', 'org.bouncycastle bcpkix-jdk14', 'org.bouncycastle bcpg-jdk14', 'org.bouncycastle bctls-jdk15on', 'org.bouncycastle bcmail-jdk14', 'org.bouncycastle.bcprov-jdk15on.1.57.org.bouncycastle bcprov-jdk15on', 'org.bouncycastle bcprov-ext-jdk14', 'org.bouncycastle bcpg-jdk15on', 'org.bouncycastle bcprov-debug-jdk14', 'org.bouncycastle.bcpkix-jdk15on.1.57.org.bouncycastle bcpkix-jdk15on', 'org.bouncycastle bcpkix-jdk15on', 'org.bouncycastle.bcpg-jdk15on.1.57.org.bouncycastle bcpg-jdk15on', 'org.bouncycastle bcprov-ext-debug-jdk14', 'org.bouncycastle.bcprov-ext-jdk15on.1.57.org.bouncycastle bcprov-ext-jdk15on', 'org.bouncycastle bcprov-debug-jdk15on', 'org.bouncycastle bcprov-jdk15on', 'org.bouncycastle bcprov-ext-debug-jdk15on', 'org.bouncycastle bcmail-jdk15on', 'org.bouncycastle.bctls-jdk15on.1.57.org.bouncycastle bctls-jdk15on', 'org.bouncycastle.bcmail-jdk15on.1.57.org.bouncycastle bcmail-jdk15on']"
+CVE-2018-1000614,['org.onosproject onos-providers-netconf-alarm']
+CVE-2018-1000615,['org.onosproject onos-ovsdb-rfc']
+CVE-2018-1000616,['org.onosproject onos-drivers-utilities']
+CVE-2018-1000620,"['cryptiles', 'org.webjars.npm cryptiles']"
+CVE-2018-1000643,['org.owasp.antisamy antisamy']
+CVE-2018-1000644,"['org.eclipse.rdf4j rdf4j-rio-rdfxml', 'org.eclipse.rdf4j rdf4j-rio-trix']"
+CVE-2018-1000665,"['org.webjars.bower dojo', 'org.dojotoolkit dojo', 'dojo', 'org.webjars.npm dojo', 'org.webjars.bowergithub.dojo dojo']"
+CVE-2018-1000820,['org.neo4j.procedure apoc']
+CVE-2018-1000822,['org.codelibs.fess fess']
+CVE-2018-1000836,['org.bedework.caleng bw-calendar-engine-impl']
+CVE-2018-1000844,['com.squareup.retrofit2 converter-jaxb']
+CVE-2018-1000850,['com.squareup.retrofit2 retrofit']
+CVE-2018-1000854,['org.esigate esigate-core']
+CVE-2018-1000861,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'golang-github-prometheus-node_exporter', 'atomic-openshift-service-idler', 'python-elasticsearch', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'ansible-service-broker', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2018-1000862,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'golang-github-prometheus-node_exporter', 'atomic-openshift-service-idler', 'python-elasticsearch', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'ansible-service-broker', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2018-1000863,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'golang-github-prometheus-node_exporter', 'atomic-openshift-service-idler', 'python-elasticsearch', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'ansible-service-broker', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2018-1000864,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'golang-github-prometheus-node_exporter', 'atomic-openshift-service-idler', 'python-elasticsearch', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'ansible-service-broker', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2018-1000865,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000866,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2018-1000873,['com.fasterxml.jackson.datatype jackson-datatype-jsr310']
+CVE-2018-1000997,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-1002200,"['rh-maven33-plexus-archiver', 'org.codehaus.plexus plexus-archiver', 'rh-maven35-plexus-archiver']"
+CVE-2018-1002201,['org.zeroturnaround zt-zip']
+CVE-2018-1002202,"['net.lingala.zip4j zip4j', 'com.github.axet zip4j']"
+CVE-2018-1002204,"['adm-zip-mit', 'adm-zip-with-enc', 'adm-zip-electron', 'adm-zip-iconv', 'org.webjars adm-zip', 'adm-zip']"
+CVE-2018-10054,['com.h2database h2']
+CVE-2018-1047,"['eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jboss-jsf-api_2.2_spec', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-jboss-ec2-eap', 'eap7-jboss-weld-2.2-api', 'eap7-picketlink-bindings', 'eap7-wildfly', 'eap7-weld-core', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jboss-marshalling', 'eap7-infinispan', 'eap7-picketbox', 'eap7-undertow', 'eap7-jboss-server-migration', 'org.wildfly wildfly-undertow', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-mod_cluster', 'eap7-jgroups', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron']"
+CVE-2018-1048,"['eap7-jackson-module-jaxb-annotations', 'eap7-ironjacamar', 'eap7-jbossws-cxf', 'eap7-undertow-jastow', 'eap7-glassfish-jsf', 'eap7-hibernate', 'eap7-xml-security', 'eap7-jackson-modules-java8', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jackson-jaxrs-providers', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jboss-ec2-eap', 'eap7-wss4j', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-wildfly-elytron', 'eap7-resteasy']"
+CVE-2018-1051,['org.jboss.resteasy resteasy-yaml-provider']
+CVE-2018-1067,"['eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jboss-jsf-api_2.2_spec', 'io.undertow undertow-core', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-jboss-weld-2.2-api', 'eap7-picketlink-bindings', 'eap7-wildfly', 'eap7-weld-core', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jboss-marshalling', 'eap7-infinispan', 'eap7-picketbox', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jboss-ec2-eap', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-mod_cluster', 'eap7-jgroups', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron']"
+CVE-2018-10862,"['eap7-wildfly-transaction-client', 'eap7-wildfly-openssl-linux', 'eap7-jboss-ejb-client', 'eap7-picketlink-bindings', 'eap7-bouncycastle', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-xml-security', 'eap7-ironjacamar', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-narayana', 'eap7-jboss-remoting', 'org.wildfly.core wildfly-deployment-repository', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-wss4j', 'eap7-guava-libraries', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-mod_cluster', 'eap7-jberet', 'eap7-resteasy']"
+CVE-2018-10912,['org.keycloak keycloak-model-infinispan']
+CVE-2018-10915,"['cfme', 'postgresql96', 'httpd-configmap-generator', 'dbus-api-service', 'cfme-gemset', 'rh-postgresql10-postgresql', 'cfme-appliance', 'cfme-amazon-smartstate', 'rh-postgresql95-postgresql', 'rh-postgresql96-postgresql']"
+CVE-2018-10936,['org.postgresql postgresql']
+CVE-2018-11039,['org.springframework spring-web']
+CVE-2018-11040,['org.springframework spring-webmvc']
+CVE-2018-11041,['org.cloudfoundry.identity cloudfoundry-identity-uaa']
+CVE-2018-11047,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2018-11087,"['com.rabbitmq amqp-client', 'org.springframework.amqp spring-rabbit']"
+CVE-2018-1114,"['eap7-jackson-module-jaxb-annotations', 'eap7-ironjacamar', 'io.undertow undertow-core', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-picketlink-bindings', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jboss-marshalling', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jboss-remoting', 'eap7-commons-logging-jboss-logmanager', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-modules', 'eap7-picketlink-federation', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-openssl', 'eap7-wildfly-elytron']"
+CVE-2018-1115,"['rh-postgresql96-postgresql', 'rh-postgresql10-postgresql']"
+CVE-2018-11248,['com.liulishuo.filedownloader library']
+CVE-2018-11307,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'org.codehaus.jackson jackson-mapper-lgpl', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-elytron-web', 'eap7-jackson-modules-java8', 'rh-maven35-jackson-databind', 'eap7-hibernate', 'org.codehaus.jackson jackson-mapper-asl', 'eap7-sun-istack-commons', 'eap7-byte-buddy', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jberet', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-1131,"['org.infinispan infinispan-client-hotrod', 'org.infinispan infinispan-core']"
+CVE-2018-11537,"['org.webjars.bower angular-jwt', 'org.webjars angular-jwt', 'angular-jwt']"
+CVE-2018-11651,"['org.graylog2 graylog2-server', 'graylog-web-interface']"
+CVE-2018-11694,['libsass.so']
+CVE-2018-11758,['org.apache.cayenne cayenne-server']
+CVE-2018-11761,['org.apache.tika tika-core']
+CVE-2018-11762,['org.apache.tika tika-app']
+CVE-2018-11766,['org.apache.hadoop hadoop-yarn-server-nodemanager']
+CVE-2018-11770,"['org.apache.spark spark-mesos_2.11', 'org.apache.spark spark-mesos_2.10', 'org.apache.spark spark-core_2.10', 'org.apache.spark spark-core_2.11']"
+CVE-2018-11771,['org.apache.commons commons-compress']
+CVE-2018-11775,['org.apache.activemq activemq-client']
+CVE-2018-11776,"['org.apache.struts struts2-rest-plugin', 'org.apache.struts struts2-core', 'com.opensymphony webwork', 'opensymphony webwork']"
+CVE-2018-11777,['org.apache.hive hive-exec']
+CVE-2018-11778,['org.apache.ranger unixauthservice']
+CVE-2018-11779,['org.apache.storm storm-core']
+CVE-2018-11784,"['jws5-tomcat', 'org.apache.tomcat tomcat', 'tomcat', 'org.apache.tomcat tomcat-catalina', 'tomcat7', 'tomcat-native', 'tomcat8']"
+CVE-2018-11786,['org.apache.karaf.shell org.apache.karaf.shell.core']
+CVE-2018-11787,"['org.apache.karaf.webconsole org.apache.karaf.webconsole.instance', 'org.apache.karaf.webconsole org.apache.karaf.webconsole.gogo', 'org.apache.karaf.webconsole org.apache.karaf.webconsole.features']"
+CVE-2018-11788,"['org.apache.karaf org.apache.karaf.util', 'org.apache.karaf.specs org.apache.karaf.specs.java.xml']"
+CVE-2018-11796,['org.apache.tika tika-core']
+CVE-2018-11797,['org.apache.pdfbox pdfbox']
+CVE-2018-11798,"['thrift', 'git.apache.org/thrift.git', 'github.com/apache/thrift']"
+CVE-2018-11799,['org.apache.oozie oozie-core']
+CVE-2018-11804,['org.apache.spark spark-parent_2.11']
+CVE-2018-1190,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2018-1192,['org.cloudfoundry.identity cloudfoundry-identity-uaa']
+CVE-2018-1196,['org.springframework.boot spring-boot-loader-tools']
+CVE-2018-1199,"['org.springframework spring-webmvc', 'org.springframework.security spring-security-web']"
+CVE-2018-12022,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-jackson-databind', 'eap7-byte-buddy', 'rh-maven35-jackson-databind', 'eap7-hibernate', 'eap7-sun-istack-commons', 'eap7-jackson-modules-java8', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jberet', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-12023,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-jackson-databind', 'eap7-byte-buddy', 'rh-maven35-jackson-databind', 'eap7-hibernate', 'eap7-sun-istack-commons', 'eap7-jackson-modules-java8', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jberet', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-12036,['org.owasp dependency-check-core']
+CVE-2018-1229,['org.springframework.batch spring-batch-admin-manager']
+CVE-2018-1230,['org.springframework.batch spring-batch-admin-manager']
+CVE-2018-12418,['com.github.junrar junrar']
+CVE-2018-12533,['richfaces']
+CVE-2018-12536,"['org.eclipse.jetty jetty-util', 'org.eclipse.jetty jetty-server']"
+CVE-2018-12537,['io.vertx vertx-core']
+CVE-2018-12538,['org.eclipse.jetty jetty-server']
+CVE-2018-12540,['io.vertx vertx-web']
+CVE-2018-12541,['io.vertx vertx-core']
+CVE-2018-12544,['io.vertx vertx-web-api-contract']
+CVE-2018-12545,"['org.eclipse.jetty.http2 http2-server', 'org.eclipse.jetty jetty-http']"
+CVE-2018-1256,['io.pivotal.spring.cloud spring-cloud-sso-connector']
+CVE-2018-1257,['org.springframework spring-messaging']
+CVE-2018-1258,['org.springframework.security spring-security-config']
+CVE-2018-1259,['org.springframework.data spring-data-commons']
+CVE-2018-1260,['org.springframework.security.oauth spring-security-oauth2']
+CVE-2018-1261,['org.springframework.integration spring-integration-zip']
+CVE-2018-1262,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2018-1263,['org.springframework.integration spring-integration-zip']
+CVE-2018-12691,['org.onosproject onos-apps-acl']
+CVE-2018-1270,['org.springframework spring-messaging']
+CVE-2018-1271,"['org.springframework spring-webflux', 'org.springframework spring-webmvc']"
+CVE-2018-1272,"['org.springframework spring-webflux', 'org.springframework spring-core', 'org.springframework spring-webmvc']"
+CVE-2018-1273,"['org.springframework.data spring-data-rest-core', 'org.springframework.data spring-data-rest-webmvc', 'org.springframework.data spring-data-commons', 'org.springframework.data spring-data-rest-hal-browser']"
+CVE-2018-1274,"['org.springframework.data spring-data-rest-core', 'org.springframework.data spring-data-rest-webmvc', 'org.springframework.data spring-data-commons', 'org.springframework.data spring-data-rest-hal-browser']"
+CVE-2018-1275,"['org.springframework.boot spring-boot-starter-amqp', 'org.springframework.boot spring-boot-starter-websocket', 'org.springframework spring-messaging']"
+CVE-2018-1282,['org.apache.hive hive-jdbc']
+CVE-2018-1284,['org.apache.hive hive-exec']
+CVE-2018-1288,"['org.apache.kafka kafka_2.12', 'org.apache.kafka kafka_2.11', 'org.apache.kafka kafka_2.10']"
+CVE-2018-1294,"['org.apache.commons commons-email', 'commons-email commons-email']"
+CVE-2018-1295,['org.apache.ignite ignite-core']
+CVE-2018-1296,['org.apache.hadoop hadoop-hdfs']
+CVE-2018-1297,['org.apache.jmeter ApacheJMeter_core']
+CVE-2018-12972,['net.opentsdb opentsdb']
+CVE-2018-12973,['net.opentsdb opentsdb']
+CVE-2018-1298,['org.apache.qpid qpid-broker-core']
+CVE-2018-13003,['net.opentsdb opentsdb']
+CVE-2018-1305,"['mod_cluster', 'tomcat', 'tomcat-native', 'org.apache.tomcat tomcat-catalina', 'tomcat7', 'tomcat-vault', 'tomcat8']"
+CVE-2018-1307,"['org.apache.juddi juddi-gui-dsig', 'org.apache.juddi juddi-client', 'org.apache.juddi juddiv3-war-repl', 'org.apache.juddi uddi-tck-base', 'org.apache.juddi juddi-core', 'org.apache.juddi juddi-gui-war']"
+CVE-2018-1308,['org.apache.solr solr-dataimporthandler']
+CVE-2018-1309,['org.apache.nifi nifi-standard-processors']
+CVE-2018-1310,"['org.apache.nifi nifi-jms-cf-service-nar', 'org.apache.nifi nifi-jms-cf-service', 'org.apache.nifi nifi-jms-processors-nar', 'org.apache.nifi nifi-jms-processors']"
+CVE-2018-1313,['org.apache.derby derbynet']
+CVE-2018-1314,['org.apache.hive hive-exec']
+CVE-2018-1315,['org.apache.hive hive-hplsql']
+CVE-2018-1317,['org.apache.zeppelin zeppelin-zengine']
+CVE-2018-1320,['org.apache.thrift libthrift']
+CVE-2018-1321,"['org.apache.syncope.core syncope-core-logic', 'org.apache.syncope.ext.camel syncope-ext-camel-logic', 'org.apache.syncope.core syncope-core-provisioning-java', 'org.apache.syncope syncope-console']"
+CVE-2018-1322,"['org.apache.syncope.ext.elasticsearch syncope-ext-elasticsearch-persistence-jpa', 'org.apache.syncope.core syncope-core-persistence-jpa', 'org.apache.syncope.common syncope-common-lib']"
+CVE-2018-1324,['org.apache.commons commons-compress']
+CVE-2018-1325,['com.googlecode.wicket-jquery-ui wicket-jquery-ui-plugins']
+CVE-2018-1327,['org.apache.struts struts2-rest-plugin']
+CVE-2018-1328,['org.apache.zeppelin zeppelin-web']
+CVE-2018-1331,['org.apache.storm storm-core']
+CVE-2018-1332,['org.apache.storm storm-core']
+CVE-2018-1334,"['org.apache.spark spark-core_2.10', 'org.apache.spark spark-core_2.11', 'pyspark']"
+CVE-2018-1335,['org.apache.tika tika-server']
+CVE-2018-1337,"['org.apache.directory.api api-ldap-model', 'org.apache.directory.api api-ldap-client-api', 'org.apache.directory.api apache-ldap-api']"
+CVE-2018-1338,['org.apache.tika tika-parsers']
+CVE-2018-1339,['org.apache.tika tika-parsers']
+CVE-2018-13797,['macaddress']
+CVE-2018-13863,"['bson', 'org.webjars.npm bson']"
+CVE-2018-14040,"['org.webjars.npm bootstrap', 'org.webjars bootstrap', 'bootstrap-sass', 'bootstrap']"
+CVE-2018-14041,"['org.webjars.npm bootstrap', 'org.webjars bootstrap', 'bootstrap']"
+CVE-2018-14042,"['org.webjars.npm bootstrap', 'org.webjars bootstrap', 'bootstrap']"
+CVE-2018-14335,['com.h2database h2']
+CVE-2018-14371,['org.glassfish javax.faces']
+CVE-2018-14627,"['org.wildfly wildfly-iiop-openjdk', 'eap7-wildfly-openssl-linux', 'eap7-ironjacamar', 'eap7-jbossws-common', 'eap7-undertow', 'eap7-undertow-jastow', 'eap7-jboss-vfs', 'eap7-glassfish-jsf', 'eap7-wildfly-client-config', 'eap7-log4j-jboss-logmanager', 'eap7-hibernate', 'eap7-picketlink-bindings', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jboss-marshalling', 'eap7-picketbox', 'eap7-jbossws-cxf', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-jboss-modules', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-openssl', 'eap7-wildfly-elytron']"
+CVE-2018-14637,"['rh-sso7-keycloak', 'org.keycloak keycloak-spring-security-adapter', 'org.keycloak keycloak-services']"
+CVE-2018-14642,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jbossws-common', 'eap7-jandex', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'io.undertow undertow-core', 'eap7-jackson-databind', 'eap7-byte-buddy', 'eap7-hibernate', 'eap7-wildfly-elytron', 'eap7-sun-istack-commons', 'eap7-jackson-modules-java8', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-wildfly-web-console-eap', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-wildfly-common', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-modules', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-jberet', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-14658,"['rh-sso7-keycloak', 'org.keycloak keycloak-services']"
+CVE-2018-14667,['richfaces']
+CVE-2018-14718,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2018-14719,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2018-14720,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-jackson-databind', 'eap7-byte-buddy', 'rh-maven35-jackson-databind', 'eap7-hibernate', 'eap7-sun-istack-commons', 'eap7-jackson-modules-java8', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jberet', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-14721,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-jackson-databind', 'eap7-byte-buddy', 'rh-maven35-jackson-databind', 'eap7-hibernate', 'eap7-sun-istack-commons', 'eap7-jackson-modules-java8', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jberet', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-elytron-web', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-wildfly-elytron', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2018-15494,"['org.webjars.npm dojox', 'org.webjars.bowergithub.dojo dojox', 'org.webjars.bower dojox', 'dojox']"
+CVE-2018-15531,['net.bull.javamelody javamelody-core']
+CVE-2018-15756,"['org.springframework spring-webmvc', 'org.springframework spring-web']"
+CVE-2018-15758,['org.springframework.security.oauth spring-security-oauth2']
+CVE-2018-15761,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2018-15801,['org.springframework.security spring-security-oauth2-jose']
+CVE-2018-16115,"['com.typesafe.akka akka-remote_2.13.0-M3', 'com.typesafe.akka akka-remote_2.11', 'com.typesafe.akka akka-remote_2.12']"
+CVE-2018-16131,"['com.typesafe.akka akka-http', 'com.typesafe.akka akka-http_2.11', 'com.typesafe.akka akka-http_2.12']"
+CVE-2018-16330,"['org.webjars.bower editor.md', 'editor.md']"
+CVE-2018-16487,"['lodash.merge', 'lodash', 'org.webjars.bower lodash', 'org.webjars.bowergithub.lodash lodash', 'lodash.defaultsdeep', 'org.webjars.npm lodash', 'lodash.mergewith']"
+CVE-2018-16491,['node.extend']
+CVE-2018-16492,"['node-extend', 'extend']"
+CVE-2018-16850,['rh-postgresql10-postgresql']
+CVE-2018-17184,['org.apache.syncope.core syncope-core-persistence-jpa']
+CVE-2018-17186,['org.apache.syncope.client syncope-client-console']
+CVE-2018-17187,['org.apache.qpid proton-j']
+CVE-2018-17192,"['org.apache.nifi nifi-jetty', 'org.apache.nifi nifi-web-api']"
+CVE-2018-17193,['org.apache.nifi nifi-web-utils']
+CVE-2018-17194,['org.apache.nifi nifi-framework-cluster']
+CVE-2018-17195,['org.apache.nifi nifi-web-api']
+CVE-2018-17197,['org.apache.tika tika-parsers']
+CVE-2018-17201,"['org.apache.commons commons-imaging', 'org.apache.sanselan sanselan']"
+CVE-2018-17202,['com.github.mike10004 commons-imaging']
+CVE-2018-17244,['org.elasticsearch elasticsearch']
+CVE-2018-17297,['cn.hutool hutool-core']
+CVE-2018-17960,['ckeditor']
+CVE-2018-18240,['ro.pippo pippo-xstream']
+CVE-2018-18385,['asciidoctor']
+CVE-2018-18389,['org.neo4j neo4j-security-enterprise']
+CVE-2018-18531,['com.github.penggle kaptcha']
+CVE-2018-18628,['ro.pippo pippo-session']
+CVE-2018-18830,['net.mingsoft ms-mcms']
+CVE-2018-18831,['net.mingsoft ms-mcms']
+CVE-2018-18853,"['io.spray spray-json_2.13.0-M5', 'io.spray spray-json_2.13.0-M4', 'io.spray spray-json_2.13.0-M3', 'io.spray spray-json_2.13.0-M2', 'io.spray spray-json_2.12.0-RC1', 'io.spray spray-json_2.12.0-RC2', 'io.spray spray-json_2.12.0-M5', 'io.spray spray-json_2.12.0-M3', 'io.spray spray-json_2.11', 'io.spray spray-json_2.10', 'io.spray spray-json_2.12']"
+CVE-2018-18854,"['io.spray spray-json_2.13.0-M5', 'io.spray spray-json_2.13.0-M4', 'io.spray spray-json_2.13.0-M3', 'io.spray spray-json_2.13.0-M2', 'io.spray spray-json_2.12.0-RC1', 'io.spray spray-json_2.12.0-RC2', 'io.spray spray-json_2.12.0-M5', 'io.spray spray-json_2.12.0-M3', 'io.spray spray-json_2.11', 'io.spray spray-json_2.10', 'io.spray spray-json_2.12']"
+CVE-2018-18893,['com.hubspot.jinjava jinjava']
+CVE-2018-19048,"['simditor', 'org.webjars simditor', 'org.webjars.bower simditor']"
+CVE-2018-19056,"['org.webjars.bower editor.md', 'editor.md']"
+CVE-2018-19360,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2018-19361,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2018-19362,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2018-19413,['org.sonarsource.sonarqube sonar-server']
+CVE-2018-19530,['com.github.httl httl']
+CVE-2018-19531,['com.github.httl httl']
+CVE-2018-19837,['libsass.so']
+CVE-2018-1999024,"['org.webjars MathJax', 'mathjax', 'MathJax', 'org.webjars.npm mathjax']"
+CVE-2018-1999043,"['atomic-enterprise-service-catalog', 'atomic-openshift-service-idler', 'atomic-openshift-cluster-autoscaler', 'kibana', 'openshift-enterprise-cluster-capacity', 'openshift-ansible', 'golang-github-openshift-oauth-proxy', 'atomic-openshift-web-console', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-prometheus-node_exporter', 'jenkins', 'openshift-monitor-sample-app', 'jenkins-2-plugins', 'atomic-openshift-metrics-server', 'atomic-openshift', 'golang-github-prometheus-prometheus', 'openshift-monitor-project-lifecycle', 'atomic-openshift-node-problem-detector', 'cri-o', 'openshift-enterprise-autoheal', 'atomic-openshift-dockerregistry']"
+CVE-2018-20000,['org.bedework bw-webdav']
+CVE-2018-20059,['ro.pippo pippo-jaxb']
+CVE-2018-20094,['com.xuxueli xxl-conf']
+CVE-2018-20200,['com.squareup.okhttp3 okhttp']
+CVE-2018-20227,['org.eclipse.rdf4j rdf4j-util']
+CVE-2018-20242,['org.apache.jspwiki jspwiki-builder']
+CVE-2018-20433,"['c3p0 c3p0', 'com.mchange c3p0']"
+CVE-2018-20594,['org.hswebframework.web hsweb-system-workflow-local']
+CVE-2018-20595,['org.hswebframework.web hsweb-system-oauth2-client-web']
+CVE-2018-20676,"['org.webjars.npm bootstrap', 'org.webjars bootstrap', 'ovirt-engine-api-explorer', 'bootstrap']"
+CVE-2018-20677,"['org.webjars.npm bootstrap', 'org.webjars bootstrap', 'ovirt-engine-api-explorer', 'bootstrap']"
+CVE-2018-20801,"['org.webjars highcharts', 'highcharts']"
+CVE-2018-20834,"['rh-nodejs8-nodejs', 'tar', 'org.webjars.npm tar']"
+CVE-2018-20835,"['org.webjars.npm tar-fs', 'tar-fs']"
+CVE-2018-3258,['mysql mysql-connector-java']
+CVE-2018-3717,"['anywhere', 'simple-server', 'connect']"
+CVE-2018-3721,"['lodash.merge', 'lodash.mergewith', 'org.webjars.bower lodash', 'org.webjars.npm lodash', 'lodash']"
+CVE-2018-3728,"['org.webjars.npm hoek', 'supervisor', 'redis', 'nagios', 'nagios-plugins', 'fh-system-dump-tool', 'hoek', 'rhmap-fh-openshift-templates']"
+CVE-2018-3737,"['sshpk', 'org.webjars.npm sshpk']"
+CVE-2018-3739,"['https-proxy-agent', 'org.webjars.npm https-proxy-agent']"
+CVE-2018-3750,"['deep-extend', 'org.webjars.npm deep-extend']"
+CVE-2018-3826,"['org.apache.spark spark-core_2.11', 'org.apache.spark spark-core_2.12', 'org.elasticsearch elasticsearch']"
+CVE-2018-3831,['org.elasticsearch elasticsearch']
+CVE-2018-5158,['firefox']
+CVE-2018-5968,"['eap7-jackson-module-jaxb-annotations', 'org.codehaus.jackson jackson-mapper-lgpl', 'eap7-picketlink-bindings', 'eap7-undertow', 'eap7-undertow-jastow', 'eap7-glassfish-jsf', 'eap7-hibernate', 'eap7-xml-security', 'eap7-jackson-modules-java8', 'eap7-ironjacamar', 'eap7-jackson-core', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-jackson-annotations', 'com.fasterxml.jackson.core jackson-databind', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jackson-jaxrs-providers', 'eap7-jbossws-cxf', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-jboss-ec2-eap', 'eap7-wss4j', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'org.codehaus.jackson jackson-mapper-asl', 'eap7-wildfly-elytron', 'eap7-resteasy']"
+CVE-2018-6341,"['react', 'org.webjars.npm react-dom', 'react-rails', 'react-dom']"
+CVE-2018-6464,"['simditor', 'org.webjars simditor']"
+CVE-2018-6561,"['dijit', 'org.webjars.bower dijit', 'org.webjars.npm dijit']"
+CVE-2018-7307,"['auth0.js', 'org.webjars.bower auth0.js', 'org.webjars.npm auth0-js', 'auth0-js']"
+CVE-2018-7651,['ssri']
+CVE-2018-8006,['org.apache.activemq activemq-web-console']
+CVE-2018-8008,['org.apache.storm storm-core']
+CVE-2018-8009,"['org.apache.hadoop hadoop-common-instrumented', 'org.apache.hadoop hadoop-common', 'org.apache.hive hive-common']"
+CVE-2018-8010,['org.apache.solr solr-core']
+CVE-2018-8012,['org.apache.zookeeper zookeeper']
+CVE-2018-8013,"['batik batik-dom', 'org.apache.xmlgraphics batik-dom']"
+CVE-2018-8014,"['jws5-tomcat', 'jws5-javapackages-tools', 'tomcat', 'org.apache.tomcat tomcat-catalina', 'jws5-tomcat-native', 'jws5-jboss-logging', 'tomcat7', 'tomcat-native', 'jws5-ecj', 'jws5-tomcat-vault', 'jws5-mod_cluster', 'tomcat8']"
+CVE-2018-8015,['org.apache.orc orc-core']
+CVE-2018-8016,"['org.apache.cassandra apache-cassandra', 'org.apache.cassandra cassandra-all']"
+CVE-2018-8017,['org.apache.tika tika-parsers']
+CVE-2018-8018,['org.apache.ignite ignite-core']
+CVE-2018-8024,"['org.apache.spark spark-core_2.10', 'org.apache.spark spark-core_2.11']"
+CVE-2018-8025,['org.apache.hbase hbase-thrift']
+CVE-2018-8026,"['org.apache.solr solr-core', 'org.apache.solr solr-cell']"
+CVE-2018-8027,['org.apache.camel camel-core']
+CVE-2018-8028,['org.apache.sentry sentry-binding-hive']
+CVE-2018-8029,"['org.apache.hadoop hadoop-yarn-server-nodemanager', 'org.apache.hadoop hadoop-common', 'org.apache.hadoop hadoop-main']"
+CVE-2018-8030,"['org.apache.qpid qpid-broker-plugins-amqp-0-8-protocol', 'org.apache.qpid apache-qpid-broker-j']"
+CVE-2018-8031,['org.apache.tomee tomee-webapp']
+CVE-2018-8032,"['org.apache.axis axis', 'axis axis']"
+CVE-2018-8035,['org.apache.uima uima-ducc-web']
+CVE-2018-8036,['org.apache.pdfbox fontbox']
+CVE-2018-8037,"['jws5-tomcat', 'org.apache.tomcat tomcat', 'org.apache.tomcat tomcat-coyote']"
+CVE-2018-8038,['org.apache.cxf.fediz fediz-core']
+CVE-2018-8039,"['eap7-wildfly-transaction-client', 'eap7-wildfly-openssl-linux', 'eap7-jboss-ejb-client', 'eap7-picketlink-bindings', 'eap7-bouncycastle', 'org.apache.cxf cxf-rt-transports-http', 'eap7-wildfly-web-console-eap', 'eap7-hibernate', 'eap7-xml-security', 'eap7-ironjacamar', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-activemq-artemis', 'eap7-wildfly-javadocs', 'eap7-narayana', 'eap7-jboss-remoting', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-wss4j', 'eap7-guava-libraries', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-mod_cluster', 'eap7-jberet', 'eap7-resteasy']"
+CVE-2018-8041,['org.apache.camel camel-mail']
+CVE-2018-9116,['com.github.tomakehurst wiremock']
+CVE-2018-9117,['com.github.tomakehurst wiremock']
+CVE-2018-9159,['com.sparkjava spark-core']
+CVE-2018-9206,['blueimp-file-upload']
+CVE-2019-0187,['org.apache.jmeter ApacheJMeter_core']
+CVE-2019-0188,"['org.apache.camel camel-xmljson', 'org.apache.camel apache-camel']"
+CVE-2019-0191,['org.apache.karaf.kar org.apache.karaf.kar.core']
+CVE-2019-0192,['org.apache.solr solr-core']
+CVE-2019-0193,['org.apache.solr solr-dataimporthandler']
+CVE-2019-0194,['org.apache.camel camel-core']
+CVE-2019-0195,['org.apache.tapestry tapestry-core']
+CVE-2019-0199,"['org.apache.tomcat.embed tomcat-embed-core', 'org.apache.tomcat tomcat-coyote', 'org.apache.tomcat tomcat-catalina']"
+CVE-2019-0200,"['org.apache.qpid qpid-broker-plugins-amqp-0-10-protocol', 'org.apache.qpid qpid-broker-plugins-amqp-0-8-protocol', 'org.apache.qpid qpid-broker-core', 'org.apache.qpid qpid-bdbstore']"
+CVE-2019-0201,['org.apache.zookeeper zookeeper']
+CVE-2019-0207,['org.apache.tapestry tapestry-ioc']
+CVE-2019-0212,['org.apache.hbase hbase-rest']
+CVE-2019-0213,['org.apache.archiva archiva-repository-admin-default']
+CVE-2019-0214,['org.apache.archiva archiva-web-common']
+CVE-2019-0221,['org.apache.tomcat tomcat-catalina']
+CVE-2019-0222,"['org.fusesource.mqtt-client mqtt-client', 'org.apache.activemq activemq-client']"
+CVE-2019-0224,"['org.apache.jspwiki jspwiki-builder', 'org.apache.jspwiki jspwiki-main', 'org.apache.jspwiki jspwiki-war']"
+CVE-2019-0225,['org.apache.jspwiki jspwiki-main']
+CVE-2019-0226,['org.apache.karaf.config org.apache.karaf.config.core']
+CVE-2019-0228,['org.apache.pdfbox pdfbox']
+CVE-2019-0232,"['org.glassfish.web web-core', 'org.glassfish.main.web web-core', 'com.hynnet tomcat-catalina', 'org.apache.tomcat tomcat-catalina']"
+CVE-2019-1003000,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003003,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003004,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003005,['jenkins-2-plugins']
+CVE-2019-1003010,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003011,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003013,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003014,"['atomic-enterprise-service-catalog', 'haproxy', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'atomic-openshift', 'jenkins', 'golang-github-prometheus-prometheus', 'atomic-openshift-dockerregistry']"
+CVE-2019-1003017,['org.hudsonci.plugins job-import-plugin']
+CVE-2019-1003024,['jenkins-2-plugins']
+CVE-2019-1003029,['jenkins-2-plugins']
+CVE-2019-1003030,['jenkins-2-plugins']
+CVE-2019-1003031,['jenkins-2-plugins']
+CVE-2019-1003034,['jenkins-2-plugins']
+CVE-2019-1003038,['org.jvnet.hudson.plugins repository-connector']
+CVE-2019-1003040,['jenkins-2-plugins']
+CVE-2019-1003041,['jenkins-2-plugins']
+CVE-2019-1003042,['jenkins-2-plugins']
+CVE-2019-1003049,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'cri-o', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2019-1003050,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'cri-o', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2019-10071,['org.apache.tapestry tapestry-core']
+CVE-2019-10072,"['org.apache.tomcat.embed tomcat-embed-core', 'org.apache.tomcat tomcat-coyote']"
+CVE-2019-10076,"['org.apache.jspwiki jspwiki-main', 'org.apache.jspwiki jspwiki-war']"
+CVE-2019-10077,['org.apache.jspwiki jspwiki-main']
+CVE-2019-10078,"['org.apache.jspwiki jspwiki-main', 'org.apache.jspwiki jspwiki-war']"
+CVE-2019-10086,['com.mebigfatguy commons-beanutils2']
+CVE-2019-10087,"['org.apache.jspwiki jspwiki-main', 'org.apache.jspwiki jspwiki-war']"
+CVE-2019-10088,['org.apache.tika tika-core']
+CVE-2019-10089,['org.apache.jspwiki jspwiki-main']
+CVE-2019-10090,['org.apache.jspwiki jspwiki-war']
+CVE-2019-10093,['org.apache.tika tika-parsers']
+CVE-2019-10094,['org.apache.tika tika-core']
+CVE-2019-10099,"['org.apache.spark spark-core_2.10', 'org.apache.spark spark-core_2.11']"
+CVE-2019-1010206,['com.github.kevinsawicki http-request']
+CVE-2019-1010266,"['org.webjars.bower lodash', 'org.webjars.npm lodash', 'lodash']"
+CVE-2019-10173,['com.thoughtworks.xstream xstream']
+CVE-2019-10184,['io.undertow undertow-servlet']
+CVE-2019-10240,['org.eclipse.hawkbit hawkbit-parent']
+CVE-2019-10241,['org.eclipse.jetty jetty-util']
+CVE-2019-10246,['org.eclipse.jetty jetty-util']
+CVE-2019-10247,"['org.seleniumhq.selenium jetty-server-repacked', 'org.eclipse.jetty jetty-server', 'org.eclipse.jetty.aggregate jetty-server']"
+CVE-2019-10248,['org.eclipse.vorto parent']
+CVE-2019-10249,['org.eclipse.xtend org.eclipse.xtend.maven.parent']
+CVE-2019-10320,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'cri-o', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2019-10328,"['atomic-enterprise-service-catalog', 'openshift-ansible', 'atomic-openshift-node-problem-detector', 'cri-o', 'jenkins-2-plugins', 'atomic-openshift-service-idler', 'atomic-openshift-web-console', 'atomic-openshift-metrics-server', 'atomic-openshift-cluster-autoscaler', 'golang-github-prometheus-alertmanager', 'atomic-openshift-descheduler', 'golang-github-openshift-oauth-proxy', 'openshift-enterprise-cluster-capacity', 'golang-github-prometheus-node_exporter', 'openshift-enterprise-autoheal', 'jenkins', 'atomic-openshift-dockerregistry', 'golang-github-prometheus-prometheus']"
+CVE-2019-10337,"['atomic-openshift', 'jenkins-2-plugins']"
+CVE-2019-10352,['jenkins']
+CVE-2019-10353,['jenkins']
+CVE-2019-10354,"['jenkins', 'org.kohsuke.stapler stapler', 'org.kohsuke.stapler stapler-groovy', 'org.kohsuke.stapler stapler-jelly']"
+CVE-2019-10355,['jenkins-2-plugins']
+CVE-2019-10356,['jenkins-2-plugins']
+CVE-2019-10357,['jenkins-2-plugins']
+CVE-2019-10383,['jenkins']
+CVE-2019-10384,['jenkins']
+CVE-2019-10742,"['axios', 'org.webjars.bower axios', 'org.webjars.bowergithub.axios axios', 'org.webjars.npm axios']"
+CVE-2019-10744,"['lodash.mergewith', 'org.webjars.bower lodash', 'org.webjars.bowergithub.lodash lodash', 'lodash.defaultsdeep', 'org.webjars.npm lodash', 'lodash']"
+CVE-2019-10745,"['org.webjars.npm assign-deep', 'assign-deep']"
+CVE-2019-10747,"['org.webjars.npm set-value', 'set-value']"
+CVE-2019-10753,"['com.diffplug.spotless spotless-eclipse-groovy', 'com.diffplug.spotless spotless-eclipse-wtp', 'com.diffplug.spotless spotless-eclipse-cdt']"
+CVE-2019-10754,"['org.apereo.cas cas-server-support-oidc-core-api', 'org.apereo.cas cas-server-core-services-api', 'org.apereo.cas cas-server-support-oauth-core-api', 'org.apereo.cas cas-server-support-simple-mfa', 'org.apereo.cas cas-server-support-shell']"
+CVE-2019-10755,"['org.pac4j pac4j-saml', 'org.pac4j pac4j-core']"
+CVE-2019-11082,['de.tudarmstadt.ukp.dkpro.core de.tudarmstadt.ukp.dkpro.core.api.datasets-asl']
+CVE-2019-11269,['org.springframework.security.oauth spring-security-oauth2']
+CVE-2019-11272,"['org.springframework.security spring-security-core', 'org.springframework.security spring-security-config']"
+CVE-2019-11274,"['org.cloudfoundry.identity cloudfoundry-identity-scim', 'org.cloudfoundry.identity cloudfoundry-identity-server']"
+CVE-2019-11358,"['jquery', 'cfme', 'v2v-conversion-host', 'ovirt-ansible-hosted-engine-setup', 'ovirt-ansible-vm-infra', 'ovirt-engine-api-explorer', 'org.webjars jquery', 'cfme-gemset', 'cfme-appliance', 'ovirt-ansible-roles', 'org.webjars.npm jquery', 'cfme-amazon-smartstate', 'org.webjars.bower jquery']"
+CVE-2019-11405,['org.openapitools openapi-generator']
+CVE-2019-11777,['org.eclipse.paho org.eclipse.paho.client.mqttv3']
+CVE-2019-11808,['io.ratpack ratpack-session']
+CVE-2019-12041,"['org.webjars.npm remarkable', 'remarkable', 'org.webjars.bower remarkable', 'org.webjars remarkable']"
+CVE-2019-12086,['com.fasterxml.jackson.core jackson-databind']
+CVE-2019-12384,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2019-12397,['org.apache.ranger security-admin-web']
+CVE-2019-12400,['org.apache.santuario xmlsec']
+CVE-2019-12402,['org.apache.commons commons-compress']
+CVE-2019-12404,['org.apache.jspwiki jspwiki-war']
+CVE-2019-12407,['org.apache.jspwiki jspwiki-war']
+CVE-2019-12728,['org.grails grails-core']
+CVE-2019-12741,['ca.uhn.hapi.fhir hapi-fhir-testpage-overlay']
+CVE-2019-12814,['com.fasterxml.jackson.core jackson-databind']
+CVE-2019-13127,"['mxgraph', 'org.webjars.npm mxgraph', 'org.webjars.bower mxgraph']"
+CVE-2019-13173,['fstream']
+CVE-2019-13234,['org.opencms opencms-core']
+CVE-2019-13235,['org.opencms opencms-core']
+CVE-2019-13236,['org.opencms opencms-core']
+CVE-2019-13237,['org.opencms opencms-core']
+CVE-2019-14262,['metadataextractor']
+CVE-2019-14379,"['rh-maven35-jackson-databind', 'com.fasterxml.jackson.core jackson-databind']"
+CVE-2019-14439,['com.fasterxml.jackson.core jackson-databind']
+CVE-2019-14517,"['org.webjars.bower editor.md', 'editor.md']"
+CVE-2019-14540,['com.fasterxml.jackson.core jackson-databind']
+CVE-2019-14653,"['org.webjars.bower editor.md', 'editor.md']"
+CVE-2019-14772,"['verdaccio', 'org.webjars.npm verdaccio']"
+CVE-2019-15477,['org.jooby jooby']
+CVE-2019-15488,['org.igniterealtime.openfire xmppserver']
+CVE-2019-16147,['com.liferay com.liferay.journal.taglib']
+CVE-2019-16335,['com.fasterxml.jackson.core jackson-databind']
+CVE-2019-16728,"['dompurify', 'org.webjars.bower dompurify']"
+CVE-2019-2692,['mysql mysql-connector-java']
+CVE-2019-3772,['org.springframework.integration spring-integration-xml']
+CVE-2019-3773,['org.springframework.ws spring-ws-core']
+CVE-2019-3774,['org.springframework.batch spring-batch-infrastructure']
+CVE-2019-3778,['org.springframework.security.oauth spring-security-oauth2']
+CVE-2019-3787,['org.cloudfoundry.identity cloudfoundry-identity-server']
+CVE-2019-3788,['org.cloudfoundry.identity cloudfoundry-identity-uaa']
+CVE-2019-3795,['org.springframework.security spring-security-core']
+CVE-2019-3797,['org.springframework.data spring-data-jpa']
+CVE-2019-3799,['org.springframework.cloud spring-cloud-config-server']
+CVE-2019-3802,['org.springframework.data spring-data-jpa']
+CVE-2019-3868,['rh-sso7-keycloak']
+CVE-2019-3872,"['eap7-wildfly-discovery', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jboss-openjdk-orb', 'eap7-hibernate', 'eap7-apache-commons-codec', 'eap7-javassist', 'eap7-picketlink-bindings', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-weld-core', 'eap7-jboss-marshalling', 'eap7-jboss-remoting', 'eap7-hal-console', 'eap7-wildfly-common', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jboss-modules', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-jgroups', 'eap7-hornetq', 'eap7-resteasy']"
+CVE-2019-3873,"['eap7-wildfly-discovery', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jboss-openjdk-orb', 'eap7-hibernate', 'eap7-apache-commons-codec', 'eap7-javassist', 'eap7-picketlink-bindings', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-weld-core', 'eap7-jboss-marshalling', 'eap7-jboss-remoting', 'eap7-hal-console', 'eap7-wildfly-common', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jboss-modules', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-jgroups', 'eap7-hornetq', 'eap7-resteasy']"
+CVE-2019-3888,"['eap7-wildfly-discovery', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-jboss-openjdk-orb', 'io.undertow undertow-core', 'eap7-hibernate', 'eap7-apache-commons-codec', 'eap7-javassist', 'eap7-picketlink-bindings', 'eap7-wildfly-naming-client', 'eap7-wildfly', 'eap7-weld-core', 'eap7-jboss-marshalling', 'eap7-jboss-remoting', 'eap7-hal-console', 'eap7-wildfly-common', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jboss-modules', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-jboss-xnio-base', 'eap7-jgroups', 'eap7-hornetq', 'eap7-resteasy']"
+CVE-2019-3894,"['eap7-wildfly-transaction-client', 'eap7-jboss-ejb-client', 'eap7-ironjacamar', 'eap7-undertow-jastow', 'eap7-apache-commons-lang', 'eap7-jboss-security-negotiation', 'eap7-elytron-web', 'eap7-jackson-modules-java8', 'eap7-hibernate', 'eap7-wildfly-elytron', 'eap7-sun-istack-commons', 'eap7-byte-buddy', 'eap7-jboss-genericjms', 'eap7-httpcomponents-asyncclient', 'eap7-picketlink-bindings', 'eap7-jackson-core', 'org.wildfly wildfly-ee', 'eap7-artemis-native', 'eap7-activemq-artemis', 'eap7-jackson-annotations', 'eap7-narayana', 'eap7-infinispan', 'eap7-jboss-logmanager', 'eap7-jboss-el-api_3.0_spec', 'eap7-undertow', 'eap7-jboss-server-migration', 'eap7-jackson-databind', 'eap7-dom4j', 'eap7-jackson-jaxrs-providers', 'eap7-jboss-remoting-jmx', 'eap7-apache-cxf-xjc-utils', 'eap7-wildfly-http-client', 'eap7-apache-cxf', 'eap7-picketlink-federation', 'eap7-wildfly', 'eap7-yasson', 'eap7-wildfly-elytron-tool', 'eap7-jberet', 'eap7-jackson-modules-base', 'eap7-resteasy']"
+CVE-2019-5413,['morgan']
+CVE-2019-5427,['com.mchange c3p0']
+CVE-2019-5442,['ro.pippo pippo-jaxb']
+CVE-2019-5475,['org.sonatype.nexus.plugins nexus-yum-repository-plugin']
+CVE-2019-5484,['bower']
+CVE-2019-6002,['com.linecorp.centraldogma centraldogma-server']
+CVE-2019-7611,['org.elasticsearch elasticsearch-storm']
+CVE-2019-7614,['org.elasticsearch elasticsearch']
+CVE-2019-7722,"['net.sourceforge.pmd pmd-core', 'pmd pmd']"
+CVE-2019-8331,"['org.webjars.bower bootstrap', 'org.webjars bootstrap', 'bootstrap']"
+CVE-2019-9153,['openpgp']
+CVE-2019-9154,['openpgp']
+CVE-2019-9155,['openpgp']
+CVE-2019-9212,['com.alipay.sofa hessian']
+CVE-2019-9511,"['rh-nginx112-nginx', 'rh-nginx110-nginx', 'rh-nginx114-nginx']"
+CVE-2019-9512,"['atomic-enterprise-service-catalog', 'go-toolset-1.11', 'skydive', 'go-toolset-1.11-golang', 'github.com/grpc/grpc-go', 'atomic-openshift', 'openshift']"
+CVE-2019-9513,"['rh-nginx112-nginx', 'rh-nginx110-nginx', 'rh-nginx114-nginx']"
+CVE-2019-9514,"['atomic-enterprise-service-catalog', 'go-toolset-1.11', 'skydive', 'go-toolset-1.11-golang', 'github.com/grpc/grpc-go', 'atomic-openshift', 'openshift']"
+CVE-2019-9515,"['github.com/grpc/grpc-go', 'skydive']"
+CVE-2019-9516,"['rh-nginx112-nginx', 'rh-nginx110-nginx', 'rh-nginx114-nginx']"
+CVE-2019-9658,['com.puppycrawl.tools checkstyle']
+CVE-2019-9737,"['org.webjars.bower editor.md', 'editor.md']"
+CVE-2019-9827,['io.hawt hawtio-system']
