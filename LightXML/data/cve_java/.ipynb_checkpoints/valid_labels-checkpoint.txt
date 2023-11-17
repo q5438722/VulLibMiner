@@ -1,0 +1,319 @@
+org.jvnet.hudson.plugins release
+org.hudsonci.plugins git
+org.hudsonci.plugins subversion
+org.hudsonci.plugins mercurial
+com.inversoft prime-jwt
+org.jolokia jolokia-core
+com.unboundid unboundid-ldapsdk unboundid-ldapsdk
+org.jvnet.hudson.plugins perforce org.hudsonci.plugins perforce
+eap7-wildfly-transaction-client org.bouncycastle bcprov-ext-jdk15on eap7-wildfly-openssl-linux org.bouncycastle bcprov-jdk14 eap7-jboss-ejb-client eap7-ironjacamar eap7-bouncycastle eap7-picketlink-federation eap7-wildfly-web-console-eap eap7-hibernate eap7-picketlink-bindings eap7-wildfly-naming-client eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs org.bouncycastle bcprov-jdk15on eap7-narayana org.bouncycastle bcprov-debug-jdk14 eap7-jboss-remoting eap7-undertow eap7-jboss-server-migration org.bouncycastle bcprov-ext-debug-jdk15on eap7-guava-libraries org.bouncycastle bcprov-ext-jdk14 eap7-mod_cluster org.bouncycastle bcprov-debug-jdk15on eap7-jberet eap7-resteasy
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+org.hudsonci.plugins crowd2 org.jvnet.hudson.plugins crowd2
+com.inversoft prime-jwt
+org.onosproject onos-providers-netconf-alarm
+org.onosproject onos-ovsdb-rfc
+org.onosproject onos-drivers-utilities
+cryptiles org.webjars.npm cryptiles
+org.eclipse.rdf4j rdf4j-rio-rdfxml org.eclipse.rdf4j rdf4j-rio-trix
+org.webjars.bower dojo org.dojotoolkit dojo dojo org.webjars.npm dojo org.webjars.bowergithub.dojo dojo
+org.codelibs.fess fess
+org.bedework.caleng bw-calendar-engine-impl
+com.squareup.retrofit2 converter-jaxb
+com.squareup.retrofit2 retrofit
+org.esigate esigate-core
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector golang-github-prometheus-node_exporter atomic-openshift-service-idler python-elasticsearch atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity ansible-service-broker openshift-enterprise-autoheal atomic-openshift jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector golang-github-prometheus-node_exporter atomic-openshift-service-idler python-elasticsearch atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity ansible-service-broker openshift-enterprise-autoheal atomic-openshift jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector golang-github-prometheus-node_exporter atomic-openshift-service-idler python-elasticsearch atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity ansible-service-broker openshift-enterprise-autoheal atomic-openshift jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector golang-github-prometheus-node_exporter atomic-openshift-service-idler python-elasticsearch atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity ansible-service-broker openshift-enterprise-autoheal atomic-openshift jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+atomic-enterprise-service-catalog haproxy openshift-ansible atomic-openshift-node-problem-detector jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal atomic-openshift jenkins golang-github-prometheus-prometheus atomic-openshift-dockerregistry
+com.fasterxml.jackson.datatype jackson-datatype-jsr310
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+rh-maven33-plexus-archiver org.codehaus.plexus plexus-archiver rh-maven35-plexus-archiver
+org.zeroturnaround zt-zip
+net.lingala.zip4j zip4j com.github.axet zip4j
+adm-zip-mit adm-zip-with-enc adm-zip-electron adm-zip-iconv org.webjars adm-zip adm-zip
+com.h2database h2
+org.jboss.resteasy resteasy-yaml-provider
+eap7-jboss-ejb-client eap7-ironjacamar eap7-jboss-jsf-api_2.2_spec io.undertow undertow-core eap7-wildfly-web-console-eap eap7-hibernate eap7-jboss-weld-2.2-api eap7-picketlink-bindings eap7-wildfly eap7-weld-core eap7-activemq-artemis eap7-wildfly-javadocs eap7-jboss-marshalling eap7-infinispan eap7-picketbox eap7-undertow eap7-jboss-server-migration eap7-jboss-ec2-eap eap7-picketlink-federation eap7-jboss-xnio-base eap7-mod_cluster eap7-jgroups eap7-wildfly-elytron-tool eap7-wildfly-elytron
+eap7-wildfly-transaction-client eap7-wildfly-openssl-linux eap7-jboss-ejb-client eap7-picketlink-bindings eap7-bouncycastle eap7-wildfly-web-console-eap eap7-hibernate eap7-xml-security eap7-ironjacamar eap7-wildfly-naming-client eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs eap7-narayana eap7-jboss-remoting org.wildfly.core wildfly-deployment-repository eap7-undertow eap7-jboss-server-migration eap7-wss4j eap7-guava-libraries eap7-apache-cxf eap7-picketlink-federation eap7-mod_cluster eap7-jberet eap7-resteasy
+org.keycloak keycloak-model-infinispan
+cfme postgresql96 httpd-configmap-generator dbus-api-service cfme-gemset rh-postgresql10-postgresql cfme-appliance cfme-amazon-smartstate rh-postgresql95-postgresql rh-postgresql96-postgresql
+org.postgresql postgresql
+com.rabbitmq amqp-client org.springframework.amqp spring-rabbit
+eap7-jackson-module-jaxb-annotations eap7-ironjacamar io.undertow undertow-core eap7-wildfly-web-console-eap eap7-hibernate eap7-picketlink-bindings eap7-wildfly-naming-client eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs eap7-jboss-marshalling eap7-infinispan eap7-jboss-logmanager eap7-jboss-remoting eap7-commons-logging-jboss-logmanager eap7-undertow eap7-jboss-server-migration eap7-jackson-databind eap7-jackson-jaxrs-providers eap7-jboss-modules eap7-picketlink-federation eap7-wildfly-elytron-tool eap7-wildfly-openssl eap7-wildfly-elytron
+rh-postgresql96-postgresql rh-postgresql10-postgresql
+com.liulishuo.filedownloader library
+eap7-wildfly-transaction-client eap7-jboss-ejb-client org.codehaus.jackson jackson-mapper-lgpl eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-elytron-web eap7-jackson-modules-java8 rh-maven35-jackson-databind eap7-hibernate org.codehaus.jackson jackson-mapper-asl eap7-sun-istack-commons eap7-byte-buddy eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jberet eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-jackson-databind eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-wildfly-elytron eap7-jackson-modules-base eap7-resteasy
+org.infinispan infinispan-client-hotrod org.infinispan infinispan-core
+org.webjars.bower angular-jwt org.webjars angular-jwt angular-jwt
+org.graylog2 graylog2-server graylog-web-interface
+libsass.so
+org.apache.cayenne cayenne-server
+org.apache.tika tika-core
+org.apache.tika tika-app
+org.apache.hadoop hadoop-yarn-server-nodemanager
+org.apache.spark spark-mesos_2.11 org.apache.spark spark-mesos_2.10 org.apache.spark spark-core_2.10 org.apache.spark spark-core_2.11
+org.apache.commons commons-compress
+org.apache.activemq activemq-client
+org.apache.struts struts2-rest-plugin org.apache.struts struts2-core com.opensymphony webwork opensymphony webwork
+org.apache.hive hive-exec
+org.apache.ranger unixauthservice
+org.apache.storm storm-core
+jws5-tomcat org.apache.tomcat tomcat tomcat org.apache.tomcat tomcat-catalina tomcat7 tomcat-native tomcat8
+org.apache.karaf.shell org.apache.karaf.shell.core
+org.apache.karaf.webconsole org.apache.karaf.webconsole.instance org.apache.karaf.webconsole org.apache.karaf.webconsole.gogo org.apache.karaf.webconsole org.apache.karaf.webconsole.features
+org.apache.karaf org.apache.karaf.util org.apache.karaf.specs org.apache.karaf.specs.java.xml
+org.apache.tika tika-core
+org.apache.pdfbox pdfbox
+thrift git.apache.org/thrift.git github.com/apache/thrift
+org.apache.oozie oozie-core
+org.apache.spark spark-parent_2.11
+org.cloudfoundry.identity cloudfoundry-identity-server
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-jackson-databind eap7-byte-buddy rh-maven35-jackson-databind eap7-hibernate eap7-sun-istack-commons eap7-jackson-modules-java8 eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jberet eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-elytron-web eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-wildfly-elytron eap7-jackson-modules-base eap7-resteasy
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-jackson-databind eap7-byte-buddy rh-maven35-jackson-databind eap7-hibernate eap7-sun-istack-commons eap7-jackson-modules-java8 eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jberet eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-elytron-web eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-wildfly-elytron eap7-jackson-modules-base eap7-resteasy
+org.owasp dependency-check-core
+com.github.junrar junrar
+richfaces
+org.eclipse.jetty jetty-util org.eclipse.jetty jetty-server
+org.eclipse.jetty jetty-server
+org.eclipse.jetty.http2 http2-server org.eclipse.jetty jetty-http
+org.springframework spring-messaging
+org.onosproject onos-apps-acl
+org.springframework.data spring-data-rest-core org.springframework.data spring-data-rest-webmvc org.springframework.data spring-data-commons org.springframework.data spring-data-rest-hal-browser
+org.apache.hive hive-jdbc
+org.apache.hive hive-exec
+org.apache.kafka kafka_2.12 org.apache.kafka kafka_2.11 org.apache.kafka kafka_2.10
+org.apache.ignite ignite-core
+org.apache.hadoop hadoop-hdfs
+org.apache.jmeter ApacheJMeter_core
+net.opentsdb opentsdb
+net.opentsdb opentsdb
+net.opentsdb opentsdb
+mod_cluster tomcat tomcat-native org.apache.tomcat tomcat-catalina tomcat7 tomcat-vault tomcat8
+org.apache.juddi juddi-gui-dsig org.apache.juddi juddi-client org.apache.juddi juddiv3-war-repl org.apache.juddi uddi-tck-base org.apache.juddi juddi-core org.apache.juddi juddi-gui-war
+org.apache.solr solr-dataimporthandler
+org.apache.nifi nifi-standard-processors
+org.apache.nifi nifi-jms-cf-service-nar org.apache.nifi nifi-jms-cf-service org.apache.nifi nifi-jms-processors-nar org.apache.nifi nifi-jms-processors
+org.apache.derby derbynet
+org.apache.hive hive-exec
+org.apache.hive hive-hplsql
+org.apache.zeppelin zeppelin-zengine
+org.apache.thrift libthrift
+org.apache.syncope.core syncope-core-logic org.apache.syncope.ext.camel syncope-ext-camel-logic org.apache.syncope.core syncope-core-provisioning-java org.apache.syncope syncope-console
+org.apache.syncope.ext.elasticsearch syncope-ext-elasticsearch-persistence-jpa org.apache.syncope.core syncope-core-persistence-jpa org.apache.syncope.common syncope-common-lib
+org.apache.commons commons-compress
+com.googlecode.wicket-jquery-ui wicket-jquery-ui-plugins
+org.apache.struts struts2-rest-plugin
+org.apache.zeppelin zeppelin-web
+org.apache.storm storm-core
+org.apache.storm storm-core
+org.apache.spark spark-core_2.10 org.apache.spark spark-core_2.11 pyspark
+org.apache.tika tika-server
+org.apache.tika tika-parsers
+org.apache.tika tika-parsers
+org.webjars.npm bootstrap org.webjars bootstrap bootstrap-sass bootstrap
+org.webjars.npm bootstrap org.webjars bootstrap bootstrap
+org.webjars.npm bootstrap org.webjars bootstrap bootstrap
+com.h2database h2
+org.wildfly wildfly-iiop-openjdk eap7-wildfly-openssl-linux eap7-ironjacamar eap7-jbossws-common eap7-undertow eap7-undertow-jastow eap7-jboss-vfs eap7-glassfish-jsf eap7-wildfly-client-config eap7-log4j-jboss-logmanager eap7-hibernate eap7-picketlink-bindings eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs eap7-jboss-marshalling eap7-picketbox eap7-jbossws-cxf eap7-jboss-server-migration eap7-elytron-web eap7-jboss-modules eap7-picketlink-federation eap7-jboss-xnio-base eap7-wildfly-elytron-tool eap7-wildfly-openssl eap7-wildfly-elytron
+rh-sso7-keycloak org.keycloak keycloak-spring-security-adapter org.keycloak keycloak-services
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-jbossws-common eap7-jandex eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation io.undertow undertow-core eap7-jackson-databind eap7-byte-buddy eap7-hibernate eap7-wildfly-elytron eap7-sun-istack-commons eap7-jackson-modules-java8 eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-wildfly-javadocs eap7-jackson-annotations eap7-narayana eap7-wildfly-web-console-eap eap7-infinispan eap7-jboss-logmanager eap7-wildfly-common eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-elytron-web eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-modules eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-jberet eap7-jackson-modules-base eap7-resteasy
+rh-sso7-keycloak org.keycloak keycloak-services
+richfaces
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-jackson-databind eap7-byte-buddy rh-maven35-jackson-databind eap7-hibernate eap7-sun-istack-commons eap7-jackson-modules-java8 eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jberet eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-elytron-web eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-wildfly-elytron eap7-jackson-modules-base eap7-resteasy
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-jackson-databind eap7-byte-buddy rh-maven35-jackson-databind eap7-hibernate eap7-sun-istack-commons eap7-jackson-modules-java8 eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core eap7-wildfly eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jberet eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-elytron-web eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-yasson eap7-wildfly-elytron-tool eap7-wildfly-elytron eap7-jackson-modules-base eap7-resteasy
+org.webjars.npm dojox org.webjars.bowergithub.dojo dojox org.webjars.bower dojox dojox
+net.bull.javamelody javamelody-core
+com.typesafe.akka akka-remote_2.13.0-M3 com.typesafe.akka akka-remote_2.11 com.typesafe.akka akka-remote_2.12
+org.webjars.bower editor.md editor.md
+lodash.merge lodash org.webjars.bower lodash org.webjars.bowergithub.lodash lodash lodash.defaultsdeep org.webjars.npm lodash lodash.mergewith
+node.extend
+node-extend extend
+rh-postgresql10-postgresql
+org.apache.syncope.core syncope-core-persistence-jpa
+org.apache.syncope.client syncope-client-console
+org.apache.nifi nifi-jetty org.apache.nifi nifi-web-api
+org.apache.nifi nifi-web-utils
+org.apache.nifi nifi-framework-cluster
+org.apache.nifi nifi-web-api
+org.apache.tika tika-parsers
+org.elasticsearch elasticsearch
+cn.hutool hutool-core
+ckeditor
+ro.pippo pippo-xstream
+asciidoctor
+org.neo4j neo4j-security-enterprise
+com.github.penggle kaptcha
+ro.pippo pippo-session
+net.mingsoft ms-mcms
+net.mingsoft ms-mcms
+com.hubspot.jinjava jinjava
+simditor org.webjars simditor org.webjars.bower simditor
+org.webjars.bower editor.md editor.md
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+org.sonarsource.sonarqube sonar-server
+com.github.httl httl
+com.github.httl httl
+libsass.so
+org.webjars MathJax mathjax MathJax org.webjars.npm mathjax
+atomic-enterprise-service-catalog atomic-openshift-service-idler atomic-openshift-cluster-autoscaler kibana openshift-enterprise-cluster-capacity openshift-ansible golang-github-openshift-oauth-proxy atomic-openshift-web-console golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-prometheus-node_exporter jenkins openshift-monitor-sample-app jenkins-2-plugins atomic-openshift-metrics-server atomic-openshift golang-github-prometheus-prometheus openshift-monitor-project-lifecycle atomic-openshift-node-problem-detector cri-o openshift-enterprise-autoheal atomic-openshift-dockerregistry
+org.bedework bw-webdav
+ro.pippo pippo-jaxb
+com.xuxueli xxl-conf
+com.squareup.okhttp3 okhttp
+org.eclipse.rdf4j rdf4j-util
+org.apache.jspwiki jspwiki-builder
+c3p0 c3p0 com.mchange c3p0
+org.hswebframework.web hsweb-system-workflow-local
+org.hswebframework.web hsweb-system-oauth2-client-web
+org.webjars.npm bootstrap org.webjars bootstrap ovirt-engine-api-explorer bootstrap
+org.webjars.npm bootstrap org.webjars bootstrap ovirt-engine-api-explorer bootstrap
+org.webjars highcharts highcharts
+org.webjars.npm tar-fs tar-fs
+anywhere simple-server connect
+lodash.merge lodash.mergewith org.webjars.bower lodash org.webjars.npm lodash lodash
+org.webjars.npm hoek supervisor redis nagios nagios-plugins fh-system-dump-tool hoek rhmap-fh-openshift-templates
+sshpk org.webjars.npm sshpk
+https-proxy-agent org.webjars.npm https-proxy-agent
+org.apache.spark spark-core_2.11 org.apache.spark spark-core_2.12 org.elasticsearch elasticsearch
+org.elasticsearch elasticsearch
+firefox
+eap7-jackson-module-jaxb-annotations org.codehaus.jackson jackson-mapper-lgpl eap7-picketlink-bindings eap7-undertow eap7-undertow-jastow eap7-glassfish-jsf eap7-hibernate eap7-xml-security eap7-jackson-modules-java8 eap7-ironjacamar eap7-jackson-core eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs eap7-jackson-annotations com.fasterxml.jackson.core jackson-databind eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jackson-jaxrs-providers eap7-jbossws-cxf eap7-jboss-server-migration eap7-jackson-databind eap7-jboss-ec2-eap eap7-wss4j eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation org.codehaus.jackson jackson-mapper-asl eap7-wildfly-elytron eap7-resteasy
+react org.webjars.npm react-dom react-rails react-dom
+simditor org.webjars simditor
+dijit org.webjars.bower dijit org.webjars.npm dijit
+auth0.js org.webjars.bower auth0.js org.webjars.npm auth0-js auth0-js
+ssri
+org.apache.activemq activemq-web-console
+org.apache.storm storm-core
+org.apache.hadoop hadoop-common-instrumented org.apache.hadoop hadoop-common org.apache.hive hive-common
+org.apache.solr solr-core
+org.apache.zookeeper zookeeper
+batik batik-dom org.apache.xmlgraphics batik-dom
+jws5-tomcat jws5-javapackages-tools tomcat org.apache.tomcat tomcat-catalina jws5-tomcat-native jws5-jboss-logging tomcat7 tomcat-native jws5-ecj jws5-tomcat-vault jws5-mod_cluster tomcat8
+org.apache.orc orc-core
+org.apache.cassandra apache-cassandra org.apache.cassandra cassandra-all
+org.apache.tika tika-parsers
+org.apache.ignite ignite-core
+org.apache.spark spark-core_2.10 org.apache.spark spark-core_2.11
+org.apache.hbase hbase-thrift
+org.apache.solr solr-core org.apache.solr solr-cell
+org.apache.camel camel-core
+org.apache.sentry sentry-binding-hive
+org.apache.hadoop hadoop-yarn-server-nodemanager org.apache.hadoop hadoop-common org.apache.hadoop hadoop-main
+org.apache.tomee tomee-webapp
+org.apache.axis axis axis axis
+org.apache.pdfbox fontbox
+jws5-tomcat org.apache.tomcat tomcat org.apache.tomcat tomcat-coyote
+eap7-wildfly-transaction-client eap7-wildfly-openssl-linux eap7-jboss-ejb-client eap7-picketlink-bindings eap7-bouncycastle org.apache.cxf cxf-rt-transports-http eap7-wildfly-web-console-eap eap7-hibernate eap7-xml-security eap7-ironjacamar eap7-wildfly-naming-client eap7-wildfly eap7-activemq-artemis eap7-wildfly-javadocs eap7-narayana eap7-jboss-remoting eap7-undertow eap7-jboss-server-migration eap7-wss4j eap7-guava-libraries eap7-apache-cxf eap7-picketlink-federation eap7-mod_cluster eap7-jberet eap7-resteasy
+org.apache.camel camel-mail
+com.github.tomakehurst wiremock
+com.github.tomakehurst wiremock
+com.sparkjava spark-core
+org.apache.jmeter ApacheJMeter_core
+org.apache.camel camel-xmljson org.apache.camel apache-camel
+org.apache.karaf.kar org.apache.karaf.kar.core
+org.apache.solr solr-core
+org.apache.solr solr-dataimporthandler
+org.apache.camel camel-core
+org.apache.tapestry tapestry-core
+org.apache.tomcat.embed tomcat-embed-core org.apache.tomcat tomcat-coyote org.apache.tomcat tomcat-catalina
+org.apache.zookeeper zookeeper
+org.apache.tapestry tapestry-ioc
+org.apache.hbase hbase-rest
+org.apache.archiva archiva-repository-admin-default
+org.apache.archiva archiva-web-common
+org.apache.tomcat tomcat-catalina
+org.fusesource.mqtt-client mqtt-client org.apache.activemq activemq-client
+org.apache.jspwiki jspwiki-builder org.apache.jspwiki jspwiki-main org.apache.jspwiki jspwiki-war
+org.apache.jspwiki jspwiki-main
+org.apache.karaf.config org.apache.karaf.config.core
+org.apache.pdfbox pdfbox
+org.glassfish.web web-core org.glassfish.main.web web-core com.hynnet tomcat-catalina org.apache.tomcat tomcat-catalina
+atomic-enterprise-service-catalog haproxy openshift-ansible atomic-openshift-node-problem-detector jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal atomic-openshift jenkins golang-github-prometheus-prometheus atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog haproxy openshift-ansible atomic-openshift-node-problem-detector jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal atomic-openshift jenkins golang-github-prometheus-prometheus atomic-openshift-dockerregistry
+atomic-enterprise-service-catalog haproxy openshift-ansible atomic-openshift-node-problem-detector jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal atomic-openshift jenkins golang-github-prometheus-prometheus atomic-openshift-dockerregistry
+jenkins-2-plugins
+jenkins-2-plugins
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector cri-o jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector cri-o jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+org.apache.tapestry tapestry-core
+org.apache.tomcat.embed tomcat-embed-core org.apache.tomcat tomcat-coyote
+org.apache.jspwiki jspwiki-main org.apache.jspwiki jspwiki-war
+org.apache.jspwiki jspwiki-main
+org.apache.jspwiki jspwiki-main org.apache.jspwiki jspwiki-war
+org.apache.jspwiki jspwiki-main org.apache.jspwiki jspwiki-war
+org.apache.tika tika-core
+org.apache.jspwiki jspwiki-main
+org.apache.jspwiki jspwiki-war
+org.apache.tika tika-parsers
+org.apache.tika tika-core
+org.apache.spark spark-core_2.10 org.apache.spark spark-core_2.11
+org.webjars.bower lodash org.webjars.npm lodash lodash
+com.thoughtworks.xstream xstream
+io.undertow undertow-servlet
+org.eclipse.hawkbit hawkbit-parent
+org.eclipse.jetty jetty-util
+org.eclipse.jetty jetty-util
+org.seleniumhq.selenium jetty-server-repacked org.eclipse.jetty jetty-server org.eclipse.jetty.aggregate jetty-server
+org.eclipse.vorto parent
+org.eclipse.xtend org.eclipse.xtend.maven.parent
+atomic-enterprise-service-catalog openshift-ansible atomic-openshift-node-problem-detector cri-o jenkins-2-plugins atomic-openshift-service-idler atomic-openshift-web-console atomic-openshift-metrics-server atomic-openshift-cluster-autoscaler golang-github-prometheus-alertmanager atomic-openshift-descheduler golang-github-openshift-oauth-proxy openshift-enterprise-cluster-capacity golang-github-prometheus-node_exporter openshift-enterprise-autoheal jenkins atomic-openshift-dockerregistry golang-github-prometheus-prometheus
+jenkins
+jenkins
+jenkins org.kohsuke.stapler stapler org.kohsuke.stapler stapler-groovy org.kohsuke.stapler stapler-jelly
+jenkins-2-plugins
+jenkins
+jenkins
+axios org.webjars.bower axios org.webjars.bowergithub.axios axios org.webjars.npm axios
+lodash.mergewith org.webjars.bower lodash org.webjars.bowergithub.lodash lodash lodash.defaultsdeep org.webjars.npm lodash lodash
+org.webjars.npm assign-deep assign-deep
+org.webjars.npm set-value set-value
+com.diffplug.spotless spotless-eclipse-groovy com.diffplug.spotless spotless-eclipse-wtp com.diffplug.spotless spotless-eclipse-cdt
+org.pac4j pac4j-saml org.pac4j pac4j-core
+jquery cfme v2v-conversion-host ovirt-ansible-hosted-engine-setup ovirt-ansible-vm-infra ovirt-engine-api-explorer org.webjars jquery cfme-gemset cfme-appliance ovirt-ansible-roles org.webjars.npm jquery cfme-amazon-smartstate org.webjars.bower jquery
+io.ratpack ratpack-session
+org.webjars.npm remarkable remarkable org.webjars.bower remarkable org.webjars remarkable
+com.fasterxml.jackson.core jackson-databind
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+org.apache.ranger security-admin-web
+org.apache.jspwiki jspwiki-war
+org.apache.jspwiki jspwiki-war
+org.grails grails-core
+com.fasterxml.jackson.core jackson-databind
+mxgraph org.webjars.npm mxgraph org.webjars.bower mxgraph
+fstream
+org.opencms opencms-core
+metadataextractor
+rh-maven35-jackson-databind com.fasterxml.jackson.core jackson-databind
+com.fasterxml.jackson.core jackson-databind
+org.webjars.bower editor.md editor.md
+com.fasterxml.jackson.core jackson-databind
+org.webjars.bower editor.md editor.md
+verdaccio org.webjars.npm verdaccio
+org.jooby jooby
+org.igniterealtime.openfire xmppserver
+com.fasterxml.jackson.core jackson-databind
+dompurify org.webjars.bower dompurify
+rh-sso7-keycloak
+eap7-wildfly-discovery eap7-jboss-ejb-client eap7-ironjacamar eap7-jboss-openjdk-orb io.undertow undertow-core eap7-hibernate eap7-apache-commons-codec eap7-javassist eap7-picketlink-bindings eap7-wildfly-naming-client eap7-wildfly eap7-weld-core eap7-jboss-marshalling eap7-jboss-remoting eap7-hal-console eap7-wildfly-common eap7-undertow eap7-jboss-server-migration eap7-jboss-modules eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-jboss-xnio-base eap7-jgroups eap7-hornetq eap7-resteasy
+eap7-wildfly-transaction-client eap7-jboss-ejb-client eap7-ironjacamar eap7-undertow-jastow eap7-apache-commons-lang eap7-jboss-security-negotiation eap7-elytron-web eap7-jackson-modules-java8 eap7-hibernate eap7-wildfly-elytron eap7-sun-istack-commons eap7-byte-buddy eap7-jboss-genericjms eap7-httpcomponents-asyncclient eap7-picketlink-bindings eap7-jackson-core org.wildfly wildfly-ee eap7-artemis-native eap7-activemq-artemis eap7-jackson-annotations eap7-narayana eap7-infinispan eap7-jboss-logmanager eap7-jboss-el-api_3.0_spec eap7-undertow eap7-jboss-server-migration eap7-jackson-databind eap7-dom4j eap7-jackson-jaxrs-providers eap7-jboss-remoting-jmx eap7-apache-cxf-xjc-utils eap7-wildfly-http-client eap7-apache-cxf eap7-picketlink-federation eap7-wildfly eap7-yasson eap7-wildfly-elytron-tool eap7-jberet eap7-jackson-modules-base eap7-resteasy
+morgan
+com.mchange c3p0
+ro.pippo pippo-jaxb
+bower
+org.elasticsearch elasticsearch-storm
+org.elasticsearch elasticsearch
+net.sourceforge.pmd pmd-core pmd pmd
+org.webjars.bower bootstrap org.webjars bootstrap bootstrap
+com.puppycrawl.tools checkstyle
+org.webjars.bower editor.md editor.md
+io.hawt hawtio-system

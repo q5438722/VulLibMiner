@@ -1,0 +1,556 @@
+maven:org.apereo.cas:cas-server-support-oidc maven:org.apereo.cas:cas-server-support-oauth-core-api maven:org.apereo.cas:cas-server-support-oidc-core-api maven:org.apereo.cas:cas-server-core-util-api maven:org.apereo.cas:cas-server-support-pac4j-core-clients maven:org.apereo.cas:cas-server-support-simple-mfa maven:org.apereo.cas:cas-server-support-shell maven:org.apereo.cas:cas-server-core-services-api
+maven:org.webjars.npm:node-sass
+maven:org.apache.axis:axis maven:axis:axis
+maven:org.springframework.security:spring-security-core maven:org.springframework.security:spring-security-saml2-service-provider
+maven:org.webjars.bower:dot-object
+maven:org.springframework.boot:spring-boot maven:org.springframework.boot:spring-boot-loader-tools
+maven:org.opencms:opencms-core
+maven:org.apache.struts:struts2-core maven:org.apache.struts.xwork:xwork-core
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-data-commons maven:org.springframework.data:spring-data-commons
+maven:org.webjars:npm maven:org.webjars.npm:npm maven:org.webjars.bower:npm
+maven:org.jenkins-ci.plugins:zephyr-enterprise-test-management
+maven:org.apache.openmeetings:openmeetings-parent
+maven:io.undertow:undertow-core
+maven:io.undertow:undertow-core
+maven:org.apache.ranger:ranger maven:org.apache.ranger:ranger-plugins-common
+maven:org.apache.geronimo:geronimo maven:geronimo:geronimo-tomcat maven:org.apache.geronimo.modules:geronimo-tomcat6
+maven:com.github.tomakehurst:wiremock
+maven:org.apache.archiva.redback:redback-authentication-ldap maven:org.apache.archiva.redback:redback-users-ldap maven:org.apache.archiva.redback:redback-common-ldap
+maven:org.jvnet.hudson.plugins:play-autotest-plugin maven:org.jenkins-ci.plugins:play-autotest-plugin
+maven:org.apache.archiva:archiva
+maven:org.webjars:tar maven:org.webjars:npm maven:org.webjars.npm:tar maven:org.webjars:browser-sync maven:org.webjars.bower:npm
+maven:com.exadel.flamingo.flex:amf-serializer
+maven:org.jenkins-ci.plugins:violation-comments-to-gitlab
+maven:org.jenkins-ci.plugins:google-kubernetes-engine
+maven:org.apache.spark:spark-core_2.10 maven:org.apache.spark:spark-core_2.11
+maven:org.webjars:qs maven:org.webjars.bower:qs maven:org.webjars.bower:jsonpath-object-transform maven:org.webjars.npm:floatthead maven:org.webjars:npm maven:org.webjars.bower:messageformat maven:org.webjars:browser-sync
+maven:io.undertow:undertow-core
+maven:org.jenkins-ci.plugins:jx-resources
+maven:org.robolectric:android-all
+maven:io.jenkins.plugins:warnings-ng
+maven:org.apache.hive.shims:hive-shims-common-secure maven:org.apache.hive:hive-exec maven:org.apache.hive:hive-service maven:org.apache.hive:hive maven:org.apache.hive:hive-common
+maven:org.onosproject:onos-apps-acl
+maven:ro.pippo:pippo-jaxb
+maven:org.apache.spark:spark-core_2.11 maven:org.apache.spark:spark-core_2.10
+maven:apache-log4j:log4j maven:org.apache.log4j:com.springsource.org.apache.log4j maven:log4j:log4j maven:org.clojars.aaroniba:log4j
+maven:org.bouncycastle:bcprov-jdk15 maven:bouncycastle:bcprov-jdk15
+maven:com.vmware.xenon:xenon-common
+maven:org.craftercms:crafter-studio
+maven:org.jenkins-ci.plugins:script-security
+maven:org.keycloak:keycloak-util-embedded-ldap
+maven:org.jenkins-ci.plugins:google-play-android-publisher
+maven:org.webjars:yui
+maven:org.opencastproject:base maven:org.opencastproject:opencast-common maven:org.opencastproject:opencast-ingest-service-impl
+maven:struts:struts
+maven:org.eclipse.che.infrastructure:infrastructure-kubernetes
+maven:commons-fileupload:commons-fileupload
+maven:org.apache.tika:tika-server maven:org.jsoup:jsoup
+maven:org.apache.hadoop:hadoop-main maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.hadoop-client maven:org.apache.hadoop:hadoop-mapreduce-client-core
+maven:io.undertow:undertow-examples maven:io.undertow:undertow-core
+maven:hudson.plugins:project-inheritance
+maven:org.jenkins-ci.plugins:artifactory
+maven:org.springframework.credhub:spring-credhub-core
+maven:org.apache.zeppelin:zeppelin maven:org.apache.zeppelin:zeppelin-zengine
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.struts.xwork:xwork-core maven:org.apache.struts:struts2-core
+maven:org.apache.axis:axis maven:axis:axis
+maven:org.cloudfoundry.identity:cloudfoundry-identity-uaa maven:org.cloudfoundry.identity:cloudfoundry-identity-server
+maven:org.eclipse.jetty.aggregate:jetty-all maven:org.eclipse.jetty:jetty-server maven:org.eclipse.jetty:jetty-util maven:org.eclipse.jetty:jetty-servlet
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.sonarsource.sonarqube:sonar-web
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.igniterealtime.openfire:xmppserver
+maven:com.liulishuo.filedownloader:library
+maven:commons-jelly:commons-jelly
+maven:org.apache.struts:struts2-core
+maven:org.apache.httpcomponents:httpclient
+maven:org.apache.geode:geode-core
+maven:org.keycloak:keycloak-services maven:org.keycloak:keycloak-server-spi-private maven:org.keycloak:keycloak-core
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.lucene-queryparser maven:org.apache.solr:solr-core maven:org.apache.lucene:lucene-queryparser
+maven:org.jenkins-ci.plugins:whitesource
+maven:org.pac4j:pac4j-core maven:org.pac4j:pac4j-oidc
+maven:org.jenkins-ci.plugins:skytap
+maven:org.apache.qpid:qpid-broker maven:org.apache.qpid:qpid-broker-plugins-amqp-1-0-protocol
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.codehaus.plexus:plexus-utils
+maven:org.eclipse.jetty:jetty-server maven:org.eclipse.jetty:jetty-runner maven:org.eclipse.jetty:jetty-http maven:org.eclipse.jetty:jetty-servlets
+maven:org.wisdom-framework:derby maven:org.apache.derby:derby
+maven:org.webjars.npm:node-sass
+maven:com.squareup.okhttp3:okhttp maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.okhttp maven:com.squareup.okhttp:okhttp
+maven:org.webjars.npm:auth0-lock maven:org.webjars.bower:auth0-lock
+maven:org.jenkins-ci.plugins:pipeline-githubnotify-step
+maven:org.jenkins-ci.plugins:sonar-gerrit
+maven:org.webjars.npm:mjml
+maven:org.wildfly.core:wildfly-protocol maven:org.wildfly.core:wildfly-host-controller
+maven:org.keycloak:keycloak-core maven:org.keycloak:keycloak-saml-core
+maven:org.apache.axis2:axis2
+maven:com.alibaba:dubbo maven:org.apache.dubbo:dubbo maven:org.apache.dubbo:dubbo-rpc-dubbo
+maven:org.jenkins-ci.plugins:pollscm
+maven:org.jenkins-ci.plugins:subversion
+maven:org.jenkins-ci.plugins:git-client
+maven:org.picketbox:jbosssx maven:org.jboss.security:jbosssx
+maven:org.jenkins-ci.plugins:active-directory
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.hadoop:hadoop-main maven:org.apache.hadoop:hadoop-common maven:org.apache.hadoop:hadoop-yarn-server-nodemanager
+maven:com.sonyericsson.jenkins.plugins.bfa:build-failure-analyzer
+maven:org.jboss.resteasy:resteasy-jaxrs
+maven:org.webjars.bowergithub.pandao:editor.md maven:org.webjars.bower:editor.md
+maven:org.elasticsearch:elasticsearch
+maven:org.apache.santuario:xmlsec
+maven:org.wso2.carbon:org.wso2.carbon.ui
+maven:org.jenkins-ci.plugins:robot
+maven:org.apache.qpid:apache-qpid-broker-j maven:org.apache.qpid:qpid-broker-plugins-amqp-0-8-protocol maven:org.apache.qpid:qpid-broker-core maven:org.apache.qpid:qpid-broker-plugins-amqp-1-0-protocol
+maven:tomcat:catalina-optional maven:tomcat:catalina maven:org.apache.tomcat:catalina
+maven:org.jenkins-ci.plugins:libvirt-slave
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.webjars:yui
+maven:org.jvnet.hudson.plugins:warnings
+maven:org.jenkins-ci.plugins:ghprb
+maven:org.apache.uima:uima-ducc-web
+maven:org.apache.flex.blazeds:blazeds maven:org.apache.flex.blazeds:flex-messaging-core
+maven:org.apache.jclouds:jclouds-scriptbuilder maven:org.apache.jclouds:jclouds-compute
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xalan maven:xalan:xalan
+maven:org.onosproject:onos-api maven:org.onosproject:onos-core-dist maven:org.onosproject:onos-gui
+maven:org.keycloak:keycloak-parent maven:org.keycloak:keycloak-wildfly-server-subsystem
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.guava maven:com.google.guava:guava
+maven:org.webjars.npm:highcharts maven:org.webjars:highcharts
+maven:io.jooby:jooby-netty
+maven:org.webjars.npm:github-com-mozilla-nunjucks
+maven:org.apache.tika:tika-core
+maven:org.apache.tomcat:tomcat-coyote maven:org.apache.tomcat.embed:tomcat-embed-core
+maven:org.cloudfoundry.identity:cloudfoundry-identity-common maven:org.cloudfoundry.identity:cloudfoundry-identity-uaa maven:org.cloudfoundry.identity:cloudfoundry-identity-server
+maven:org.jenkins-ci.plugins:libvirt-slave
+maven:org.jvnet.hudson.plugins:dry
+maven:org.webjars.npm:auth0-js maven:org.webjars.bower:auth0.js
+maven:xml-security:xmlsec maven:org.apache.santuario:xmlsec
+maven:org.jenkins-ci.plugins:jclouds-jenkins
+maven:org.apache.sling:org.apache.sling.servlets.post
+maven:com.thoughtworks.xstream:xstream
+maven:org.jenkins-ci.plugins:appdynamics-dashboard
+maven:org.webjars.npm:ssri
+maven:org.jboss.resteasy:resteasy-client maven:org.jboss.resteasy:resteasy-client-microprofile
+maven:org.apache.logging.log4j:log4j maven:org.apache.log4j:com.springsource.org.apache.log4j maven:org.clojars.aaroniba:log4j maven:apache-log4j:log4j maven:org.apache.logging.log4j.osgi:log4j-core-osgi-reduced maven:log4j:log4j maven:org.apache.logging.log4j:log4j-core
+maven:org.hswebframework.web:hsweb-commons maven:org.hswebframework.web:hsweb-system-oauth2-client-web maven:org.hswebframework.web:hsweb-system-workflow-local
+maven:org.jenkins-ci.plugins:cloudbees-jenkins-advisor
+maven:org.jenkins-ci.plugins:ansible
+maven:org.jenkins-ci.plugins:delphix
+maven:org.jenkins-ci.plugins:cobertura
+maven:org.apache.karaf:apache-karaf maven:org.apache.karaf.shell:org.apache.karaf.shell.core
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache:camel maven:org.apache.camel:camel-spring maven:org.apache:camel-management maven:org.apache:camel-core maven:org.apache.camel:camel-management-api maven:org.apache.camel:camel-core-xml maven:org.apache.camel:camel-api maven:org.apache.camel:camel-main maven:org.apache.camel:camel-core maven:org.apache.camel:camel-management
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-security-core maven:org.springframework.security:spring-security-core
+maven:org.jboss.resteasy:resteasy-jackson2-provider
+maven:io.arrow-kt:arrow-ank-gradle maven:io.arrow-kt:arrow-core
+maven:org.sonatype.nexus:nexus-extdirect
+maven:org.jenkins-ci.plugins:fortify-on-demand-uploader
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jvnet.hudson.plugins:speaks
+maven:org.apache.httpcomponents:httpclient-osgi maven:org.apache.httpcomponents.client5:httpclient5-osgi maven:org.apache.httpcomponents.client5:httpclient5 maven:org.apache.httpcomponents:httpclient
+maven:net.lingala.zip4j:zip4j
+maven:org.jenkins-ci.plugins:vmanager-plugin
+maven:org.apache.struts:struts2-core
+maven:org.apache.jspwiki:jspwiki-war
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:com.mtvi.plateng.hudson:ldapemail
+maven:org.jenkins-ci.plugins:urltrigger
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.webjars.npm:node-sass
+maven:org.webjars.npm:node-fetch
+maven:org.webjars.bower:npm
+maven:org.jenkins-ci.plugins:mantis
+maven:org.jenkins-ci.plugins:config-file-provider
+maven:org.jenkins-ci.plugins:weblogic-deployer-plugin
+maven:org.grails:grails-resources
+maven:dev.paseto:jpaseto-impl maven:dev.paseto:jpaseto-sodium
+maven:org.glassfish.metro:webservices-rt maven:com.sun.xml.ws:webservices-rt maven:org.apache.santuario:xmlsec
+maven:struts:struts
+maven:org.jenkins-ci.groovy:groovy-all maven:org.codehaus.groovy:groovy maven:org.codehaus.groovy:groovy-all
+maven:org.jenkins-ci.plugins:dynatrace-dashboard
+maven:org.apache.wicket:wicket-core
+maven:io.fabric8:fabric8-maven-plugin-core
+maven:org.jenkins-ci.plugins:dependency-check-jenkins-plugin
+maven:org.apache.tomcat:tomcat-coyote maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat.embed:tomcat-embed-core
+maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:coyote maven:org.apache.tomcat:tomcat-coyote
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.springframework:spring-core maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-jms maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-messaging maven:org.springframework:spring-messaging
+maven:com.github.penggle:kaptcha
+maven:org.jenkins-ci.plugins:vsphere-cloud
+maven:org.apache.wink:wink-server maven:org.apache.wink:wink-assembly-aggregatejar-osgi maven:org.apache.wink:wink-common
+maven:org.webjars.bower:knockout maven:org.webjars.bower:pagerjs maven:org.webjars.bower:knockoutjs maven:org.webjars.npm:rdfstore
+maven:org.craftercms:crafter-studio
+maven:net.mingsoft:ms-mcms
+maven:ro.pippo:pippo-core maven:ro.pippo:pippo-session maven:ro.pippo:pippo-xstream
+maven:org.apache.olingo:odata-server-core-ext maven:org.apache.olingo:odata-server-core maven:org.apache.olingo:odata-client-core
+maven:org.apache.sling:org.apache.sling.jcr.contentloader
+maven:org.jenkins-ci.plugins:covcomplplot
+maven:org.jbpm:jbpm-console-ng-human-tasks-client
+maven:tomcat:catalina maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat:coyote maven:org.apache.tomcat:catalina
+maven:org.apache.tomcat:catalina
+maven:com.thoughtworks.xstream:xstream
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.webjars.bower:swagger-ui maven:org.webjars.npm:swagger-ui maven:org.webjars.npm:swagger-ui-cimpress
+maven:org.apache.axis:axis maven:axis:axis
+maven:org.cloudfoundry.identity:cloudfoundry-identity-common maven:org.cloudfoundry.identity:cloudfoundry-identity-server
+maven:org.jenkins-ci.plugins:dbCharts
+maven:ro.pippo:pippo-core maven:ro.pippo:pippo-jaxb
+maven:org.apache.calcite:calcite-druid maven:org.apache.calcite:calcite-splunk maven:org.apache.calcite:calcite-core
+maven:org.jenkins-ci.plugins:git
+maven:org.jenkins-ci.plugins:violation-comments-to-gitlab
+maven:org.jvnet.hudson.plugins:groovy-postbuild
+maven:org.webjars.npm:node-notifier
+maven:org.jenkins-ci.plugins:electricflow
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.plugins.workflow:workflow-multibranch
+maven:org.jenkins-ci.plugins.workflow:workflow-multibranch
+maven:org.apache.oozie:oozie-core
+maven:org.webjars.bower:bootstrap maven:org.webjars.bowergithub.jasny:bootstrap maven:org.webjars:bootstrap maven:org.webjars.bowergithub.angular-ui:bootstrap maven:org.webjars.bowergithub.twbs:bootstrap
+maven:com.liferay.portal:portal-impl
+maven:org.apache.tika:tika-core maven:org.apache.tika:tika-server
+maven:com.thoughtworks.xstream:xstream maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream-java8 maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream
+maven:org.jenkins-ci.plugins:electricflow
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.hibernate-validator maven:org.hibernate:hibernate-validator
+maven:org.jvnet.hudson.plugins:monitoring
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.freeswitch.esl.client:java-esl-client
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream-java8 maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream maven:com.thoughtworks.xstream:xstream
+maven:org.apache.derby:derby
+maven:org.apache.portals.jetspeed-2:j2-admin
+maven:org.webjars:browser-sync maven:org.webjars.bower:npm maven:org.webjars.npm:cryptiles maven:org.webjars:npm maven:org.webjars.npm:bower
+maven:org.jboss.seam:jboss-seam
+maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:tomcat-coyote
+maven:cprice404:pipeline-classpath
+maven:org.jboss.resteasy:resteasy-yaml-provider
+maven:org.jvnet.hudson.plugins:warnings
+maven:net.sf.click:click maven:commons-fileupload:commons-fileupload
+maven:org.apache.syncope:syncope-core maven:org.apache.syncope.common:syncope-common-lib maven:org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-persistence-jpa maven:org.apache.syncope:syncope-common maven:org.apache.syncope.core:syncope-core-persistence-jpa
+maven:org.apache.struts:struts-core maven:struts:struts
+maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:tomcat-catalina
+maven:org.jenkins-ci.plugins:token-macro
+maven:org.apache.shiro:shiro-core maven:org.apache.shiro:shiro-web
+maven:org.jenkins-ci.plugins:hockeyapp
+maven:org.apache.drill.exec:drill-java-exec
+maven:org.apache.cxf:cxf-core maven:org.apache.cxf:cxf-rt-frontend-jaxrs
+maven:com.coravy.hudson.plugins.github:github
+maven:hudson.plugins:project-inheritance
+maven:org.apache.camel:camel-castor-starter maven:org.apache.camel:camel-castor
+maven:org.jenkins-ci.plugins:gitlab-oauth
+maven:org.jenkins-ci.plugins:mailer
+maven:org.springframework:spring-core maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-web maven:org.springframework:spring-web
+maven:org.jboss.seam:jboss-seam
+maven:org.jolokia:jolokia-jvm maven:org.jolokia:jolokia-core
+maven:org.owasp.antisamy:antisamy
+maven:org.bouncycastle:bcprov-jdk15 maven:org.bouncycastle:bcprov-debug-jdk15on maven:org.bouncycastle:bcprov-ext-jdk14 maven:org.bouncycastle:bcprov-debug-jdk14 maven:org.bouncycastle:bcprov-ext-debug-jdk15on maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcprov-jdk15on maven:org.bouncycastle:bcprov-jdk15on maven:org.bouncycastle:bcprov-ext-jdk15on maven:org.bouncycastle:bcprov-jdk14
+maven:org.jenkins-ci.plugins.workflow:workflow-cps
+maven:org.http4s:http4s-server_2.13.0-M5 maven:org.http4s:http4s-server_2.11 maven:org.http4s:http4s-server_2.13 maven:org.http4s:http4s-server_2.10 maven:org.http4s:http4s-server_2.12 maven:org.http4s:http4s-core_2.12
+maven:io.projectreactor.ipc:reactor-netty maven:io.projectreactor.netty:reactor-netty
+maven:org.apache.flex.blazeds:flex-messaging-core
+maven:org.fujion.webjars:bootstrap
+maven:org.jboss.resteasy:resteasy-jaxrs
+maven:org.graylog2:graylog2-server
+maven:org.jenkins-ci.plugins:electricflow
+maven:org.apache.flex.blazeds:flex-messaging-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:net.bull.javamelody:javamelody-core
+maven:org.apache.geode:apache-geode maven:org.apache.geode:geode-core
+maven:com.mintegral.msdk:alphab
+maven:com.google.gerrit:gerrit-plugin-api
+maven:org.webjars.bowergithub.unshiftio:url-parse maven:org.webjars.npm:url-parse
+maven:org.webjars.npm:object-path maven:org.webjars:browser-sync
+maven:org.jenkins-ci.plugins.workflow:workflow-cps-global-lib
+maven:org.apache.tomcat:catalina
+maven:hudson.plugins.filesystem_scm:filesystem_scm
+maven:org.jenkins-ci.plugins:job-import-plugin
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.plugins:icescrum
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.plugins:jclouds-jenkins
+maven:org.apache.oozie:oozie-core
+maven:org.asciidoctor:asciidoctorj
+maven:org.webjars:request
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-ws-core maven:org.springframework.ws:spring-ws maven:org.springframework.ws:spring-ws-core maven:org.springframework.ws:spring-xml
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.plugins:eggplant-plugin
+maven:org.jenkins-ci.plugins:artifactory
+maven:org.apache.nifi:nifi-security-utils maven:org.apache.nifi:nifi-standard-processors
+maven:org.jenkins-ci.plugins:script-security
+maven:org.robolectric:android-all
+maven:org.kie:kie-drools-wb-distribution-wars
+maven:org.apache.hadoop:hadoop-yarn-common
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.graniteds:granite-generator
+maven:org.apache.struts:struts2-core
+maven:org.apache.tomcat:tomcat-coyote maven:org.apache.tomcat.embed:tomcat-embed-core
+maven:org.webjars.npm:bower maven:org.webjars.npm:alpaca maven:org.webjars.npm:handlebars maven:org.webjars.bower:handlebars maven:org.webjars:handlebars
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.onosproject:onos-ovsdb
+maven:io.swagger:swagger-codegen maven:io.swagger:swagger-parser
+maven:org.wildfly:wildfly-undertow
+maven:org.keycloak:keycloak-services
+maven:org.jbpm:jbpm-designer-backend
+maven:org.jenkins-ci.plugins:github-oauth
+maven:org.apache.wss4j:wss4j-ws-security-dom maven:org.apache.ws.security:wss4j
+maven:org.apache.storm:storm-core
+maven:org.apache.qpid:apache-qpid-broker-j maven:org.apache.qpid:qpid-broker-plugins-amqp-0-8-protocol
+maven:org.apache.storm:storm-kafka-client maven:org.apache.storm:storm-kafka
+maven:org.jenkins-ci.plugins:zephyr-for-jira-test-management
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-core maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-websocket maven:org.springframework:spring-core maven:org.springframework:spring-websocket
+maven:org.jenkinsci.plugins:emailext-template
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.plugins:relution-publisher
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.geode:geode-modules maven:org.apache.geode:geode-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.keycloak:keycloak-parent maven:org.keycloak:keycloak-common maven:org.keycloak:keycloak-core
+maven:org.hudsonci.plugins:parameterized-trigger maven:org.jenkins-ci.plugins:parameterized-trigger
+maven:org.eclipse.jetty:jetty-http maven:org.eclipse.jetty:jetty-server
+maven:org.bouncycastle:bcprov-debug-jdk15on maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcpg-jdk15on maven:org.bouncycastle:bcprov-debug-jdk14 maven:org.bouncycastle:bcprov-ext-debug-jdk15on maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcprov-jdk15on maven:org.bouncycastle:bcprov-jdk15 maven:bouncycastle:bcprov-jdk15 maven:org.bouncycastle:bcprov-jdk14 maven:org.bouncycastle:bcprov-jdk15on maven:org.bouncycastle:bcprov-ext-jdk15on
+maven:com.squareup:connect
+maven:org.cloudfoundry.identity:cloudfoundry-identity-login maven:org.cloudfoundry.identity:cloudfoundry-identity-server
+maven:io.ratpack:ratpack-core
+maven:org.webjars:jquery maven:org.webjars.npm:jquery maven:org.webjars.bowergithub.jquery:jquery-dist maven:org.webjars.bower:jquery
+maven:org.jenkins-ci.plugins.workflow:workflow-cps-global-lib
+maven:org.apache.velocity:velocity
+maven:org.apache.struts:struts2-core
+maven:org.webjars.npm:angular maven:org.webjars.npm:github-com-angular-ui-ui-router maven:org.webjars:angularjs maven:org.webjars.npm:angular-timer maven:org.webjars.bower:angularjs maven:org.webjars.bower:angular
+maven:org.slf4j:slf4j-ext
+maven:org.webjars:marked
+maven:org.webjars.npm:github-com-mithunsatheesh-node-rules
+maven:org.apache.camel:camel-spring maven:org.apache.camel:camel-core
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream-java8 maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.xstream maven:com.thoughtworks.xstream:xstream
+maven:org.liquibase:liquibase-core
+maven:com.blackducksoftware.integration:blackduck-hub
+maven:com.inversoft:prime-jwt
+maven:org.wildfly.security:wildfly-elytron
+maven:org.jenkins-ci.plugins.workflow:workflow-cps-global-lib
+maven:org.jenkins-ci.plugins:ec2
+maven:org.glassfish:javax.faces
+maven:org.keycloak:keycloak-services maven:org.keycloak:keycloak-broker-saml
+maven:org.jenkins-ci.plugins:netsparker-cloud-scan
+maven:org.webjars.npm:property-expr
+maven:org.apache.jspwiki:jspwiki-war
+maven:org.webjars:browser-sync maven:org.webjars.bower:jsonpath-object-transform maven:org.webjars.npm:floatthead maven:org.webjars:npm maven:org.webjars.npm:bower
+maven:org.jenkins-ci.plugins:active-directory
+maven:org.keycloak:keycloak-services
+maven:org.drools:droolsjbpm-integration maven:org.kie.server:kie-server-services-common maven:org.kie.server:kie-server-common maven:org.kie.server:kie-server-controller-websocket-client maven:org.kie.server:kie-server-controller-rest
+maven:org.springframework:spring-core maven:org.springframework:spring-websocket maven:org.springframework:spring-webmvc maven:org.springframework:spring-web
+maven:org.igniterealtime.openfire:xmppserver
+maven:org.jenkins-ci.plugins.workflow:workflow-cps
+maven:org.jenkins-ci.plugins:publish-over-cifs
+maven:org.jenkins-ci.main:jenkins-core
+maven:com.floragunn:search-guard-6
+maven:org.csanchez.jenkins.plugins:kubernetes
+maven:org.jenkins-ci.plugins:bitbucket-approve
+maven:org.mortbay.jetty:jetty
+maven:org.jboss.resteasy:resteasy-jaxrs maven:org.jboss.resteasy:resteasy-jaxb-provider
+maven:io.undertow:undertow-core
+maven:org.apache.hadoop:hadoop-hdfs maven:org.apache.hadoop:hadoop-main maven:org.apache.hadoop:hadoop-hdfs-client
+maven:org.apache.solr:solr-core maven:org.apache.solr:solr-dataimporthandler
+maven:org.fujion.webjars:jquery maven:org.webjars.bowergithub.jquery:jquery maven:org.webjars.bower:jquery maven:org.webjars.npm:jquery maven:org.webjars:jquery
+maven:org.codehaus.groovy:groovy-all maven:org.jenkins-ci.groovy:groovy-all maven:org.codehaus.groovy:groovy
+maven:org.jenkins-ci.plugins:pipeline-build-step
+maven:org.beanshell:bsh maven:org.apache-extras.beanshell:bsh maven:bsh:bsh
+maven:io.undertow:undertow-core
+maven:org.netbeans.api:org-netbeans-modules-autoupdate-services
+maven:org.jenkins-ci.plugins:Parameterized-Remote-Trigger
+maven:org.apache.karaf:karaf maven:org.apache.karaf:org.apache.karaf.util maven:org.apache.karaf.specs:org.apache.karaf.specs.java.xml
+maven:org.apache.struts:struts2-core maven:org.apache.struts:struts2-rest-plugin
+maven:com.h2database:h2
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.elasticsearch maven:org.elasticsearch:elasticsearch
+maven:org.apache.struts:struts2-rest-showcase maven:org.apache.struts:struts2-showcase maven:org.apache.struts:struts2-core
+maven:org.springframework:org.springframework.web maven:org.springframework:spring-web
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.esapi maven:org.owasp.esapi:esapi
+maven:org.infinispan:infinispan-client-hotrod maven:org.infinispan:infinispan-commons
+maven:org.jvnet.hudson.plugins:ftppublisher
+maven:org.apache.commons:commons-compress
+maven:org.jvnet.hudson.plugins:favorite
+maven:net.mingsoft:ms-mcms
+maven:io.jenkins:configuration-as-code
+maven:org.jenkins-ci.plugins:support-core
+maven:ru.yandex.qatools.embed:postgresql-embedded
+maven:org.jasig.cas:cas-server-core maven:org.jasig.cas:cas-server-support-ldap
+maven:org.apache.druid:druid maven:io.druid:druid-server maven:org.apache.druid:druid-server maven:org.apache.druid:druid-core
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.main:jenkins-core
+maven:io.netty:netty maven:io.netty:netty-all maven:org.eclipse.jetty.http2:http2-common maven:io.netty:netty-codec-http2
+maven:org.jenkins-ci.plugins:build-pipeline-plugin
+maven:org.jenkins-ci.plugins:aqua-serverless
+maven:org.python:jython-standalone
+maven:org.jenkins-ci.plugins:git
+maven:org.apache.cxf.fediz:fediz-jetty8 maven:org.apache.cxf.fediz:fediz-oidc maven:org.apache.cxf.fediz:fediz-spring maven:org.apache.cxf.fediz:fediz-jetty9 maven:org.apache.cxf.fediz:fediz-spring2
+maven:io.hawt:hawtio-system
+maven:tomcat:tomcat-http11
+maven:com.netflix.conductor:conductor-core
+maven:org.springframework.security:spring-security-core maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-security-web maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-security-config maven:org.springframework:org.springframework.core maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.spring-core maven:org.springframework.security:spring-security-config maven:org.springframework.security:spring-security-web maven:org.springframework:spring-core
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.infinispan:infinispan-spring5-common maven:org.infinispan:infinispan-spring5-remote maven:org.infinispan:infinispan-spring5-embedded maven:org.infinispan:infinispan-core
+maven:commons-httpclient:commons-httpclient
+maven:tomcat:tomcat-util
+maven:io.netty:netty-all maven:io.netty:netty maven:org.eclipse.jetty.http2:http2-common maven:io.netty:netty-codec-http2
+maven:org.apache.hbase:hbase maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.hbase maven:org.apache.hbase:hbase-client
+maven:io.vertx:vertx-core maven:io.vertx:vertx-web
+maven:org.keycloak:keycloak-parent
+maven:org.cloudfoundry.identity:cloudfoundry-identity-uaa
+maven:org.apache.tomcat.embed:tomcat-embed-jasper maven:org.apache.tomcat:tomcat-util maven:org.apache.tomcat:tomcat-util-scan maven:org.apache.tomcat:catalina maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:jasper maven:org.apache.tomcat:tomcat-jasper
+maven:org.webjars.npm:shvl
+maven:org.jenkins-ci.plugins:pipeline-input-step
+maven:com.thoughtworks.xstream:xstream
+maven:com.alibaba.nacos:nacos-api maven:com.alibaba.nacos:nacos-common maven:com.alibaba.nacos:nacos-core maven:com.alibaba.nacos:nacos-client maven:com.alibaba.nacos:nacos-config maven:com.alibaba.nacos:nacos-naming
+maven:org.webjars:ckeditor
+maven:org.apache.jspwiki:jspwiki-war
+maven:org.jenkins-ci.plugins:fortify-on-demand-uploader
+maven:org.apache.accumulo:accumulo-core maven:org.apache.accumulo:accumulo-master
+maven:mysql:mysql-connector-java
+maven:org.webjars.npm:mathjs maven:org.webjars.bower:mathjs maven:org.webjars:mathjs
+maven:org.webjars.npm:hosted-git-info
+maven:com.hazelcast:hazelcast-spring maven:com.hazelcast:hazelcast-client maven:com.hazelcast:hazelcast-all maven:com.hazelcast:hazelcast
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.hibernate-validator maven:org.hibernate:hibernate-validator
+maven:org.zkoss.common:zweb
+maven:org.jenkins-ci.plugins:p4
+maven:io.netty:netty-handler maven:io.netty:netty-codec-http maven:io.netty:netty-all
+maven:org.jenkins-ci.plugins:oic-auth
+maven:axis:axis
+maven:org.apache.struts:struts2-core maven:org.apache.struts.xwork:xwork-core
+maven:com.diffplug.spotless:spotless-maven-plugin maven:com.diffplug.spotless:spotless-plugin-maven maven:com.diffplug.spotless:spotless-plugin-gradle maven:com.diffplug.spotless:spotless-eclipse-wtp
+maven:org.apache.ignite:ignite-core
+maven:org.jenkins-ci.plugins:script-security maven:org.kohsuke:groovy-sandbox
+maven:com.netflix.spinnaker.orca:orca-core
+maven:org.apache.camel:apache-camel maven:org.apache.camel:camel-core
+maven:org.onosproject:onos-core-common
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.main:jenkins-core
+maven:com.caverock:androidsvg
+maven:org.apache.ranger:ranger
+maven:org.jenkins-ci.plugins:timestamper
+maven:org.jenkins-ci.plugins:relution-publisher
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:net.hurstfrost.jenkins:avatar
+maven:org.apache.ranger:ranger maven:org.apache.ranger:ranger-kafka-plugin
+maven:org.wso2.carbon.identity.framework:org.wso2.carbon.policyeditor.ui
+maven:org.webjars.npm:bson
+maven:org.jenkins-ci.plugins:role-strategy
+maven:org.webjars.bower:mxgraph
+maven:org.apache.santuario:xmlsec
+maven:org.apache.kafka:kafka-tools maven:org.apache.kafka:kafka_2.10 maven:org.apache.kafka:kafka_2.12 maven:org.apache.kafka:kafka_2.11
+maven:org.apache.nifi:nifi-framework-core maven:org.apache.nifi:nifi-stateless maven:org.apache.nifi:nifi-security-utils
+maven:org.springframework:org.springframework.context maven:org.springframework:spring-context maven:org.springframework:org.springframework.core maven:org.springframework.security:spring-security-core maven:org.springframework:spring-core
+maven:org.apache.activemq:activemq-all maven:org.apache.activemq:activemq-broker
+maven:org.jenkins-ci.plugins:azure-event-grid-notifier
+maven:org.apache.sling:org.apache.sling.servlets.post
+maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:tomcat-util maven:org.apache.tomcat:tomcat-coyote
+maven:io.undertow:undertow-core
+maven:org.webjars:browser-sync maven:org.webjars.npm:bower maven:org.webjars.bower:jsonpath-object-transform maven:org.webjars.npm:handlebars
+maven:org.apache.tomcat:tomcat-util maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat:tomcat-coyote maven:org.apache.tomcat.embed:tomcat-embed-core
+maven:org.jboss.resteasy:resteasy-yaml-provider
+maven:org.apache.activemq:artemis-server maven:org.apache.activemq:artemis-core-client
+maven:io.undertow:undertow-core
+maven:org.jenkins-ci.plugins:jira-ext
+maven:org.jenkins-ci.plugins.m2release:m2release
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.webjars:npm maven:org.webjars.npm:debug maven:org.webjars.bower:npm
+maven:org.apache.solr:solr-core
+maven:org.apache.activemq:activemq-all maven:org.apache.activemq:activemq-core maven:org.apache.activemq:activemq-broker maven:org.apache.activemq:activemq-jaas
+maven:org.springframework.security:spring-security-oauth2-jose maven:org.springframework.security:spring-security-core
+maven:org.jenkins-ci.plugins:qmetry-for-jira-test-management
+maven:org.apache.tomcat:tomcat-coyote maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:coyote
+maven:org.sonatype.nexus.plugins:nexus-yum-repository-plugin
+maven:org.jenkins-ci.plugins:credentials-binding
+maven:org.jenkins-ci.main:jenkins-core maven:org.kohsuke.stapler:stapler
+maven:org.cloudfoundry.identity:cloudfoundry-identity-login maven:org.cloudfoundry.identity:cloudfoundry-identity-common
+maven:org.webjars.npm:bootstrap maven:org.webjars:bootstrap
+maven:org.eclipse.jetty:jetty-runner maven:org.eclipse.jetty:jetty-server
+maven:com.sonyericsson.jenkins.plugins.bfa:build-failure-analyzer
+maven:org.jenkins-ci.plugins:vmanager-plugin
+maven:org.bouncycastle:bcprov-jdk15 maven:org.bouncycastle:bc-fips maven:org.bouncycastle:bcprov-ext-jdk14 maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcprov-jdk15on maven:org.bouncycastle:bcprov-debug-jdk14 maven:org.bouncycastle:bcprov-jdk14 maven:org.bouncycastle:bcprov-jdk15on maven:org.bouncycastle:bcprov-ext-jdk15on
+maven:com.couchbase.client:core-io
+maven:org.igniterealtime.smack:smack maven:org.igniterealtime.smack:smack-tcp maven:org.igniterealtime.smack:smack-core maven:jivesoftware:smack
+maven:io.jenkins:configuration-as-code
+maven:org.apache.struts.xwork:xwork-core maven:org.apache.struts:struts2-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.elasticsearch maven:org.elasticsearch:elasticsearch
+maven:io.netty:netty-handler maven:io.netty:netty-codec maven:io.netty:netty-all
+maven:org.grails:grails-resources maven:org.grails:grails-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.sanselan:sanselan
+maven:org.jenkins-ci.plugins:rundeck maven:org.jenkins-ci.plugins:oracle-cloud-infrastructure-compute-classic maven:org.jenkins-ci.plugins:icescrum
+maven:org.springframework.social:spring-social-core
+maven:org.jenkins-ci.plugins:liquibase-runner
+maven:org.jvnet.hudson.plugins:checkstyle
+maven:org.eclipse.jetty:jetty-server
+maven:org.jboss.resteasy:resteasy-jaxrs maven:org.jboss.resteasy:tjws
+maven:com.github.httl:httl
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.plugins:aws-device-farm
+maven:org.apache.wicket:wicket maven:org.apache.wicket:wicket-core
+maven:com.vaadin:vaadin
+maven:org.apache.tomcat:tomcat-catalina maven:org.apache.tomcat:catalina maven:org.apache.tomcat.embed:tomcat-embed-core
+maven:org.elasticsearch:elasticsearch
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:com.redgate.plugins.redgatesqlci:redgate-sql-ci
+maven:com.ds.tools.hudson:crowd
+maven:org.webjars:browser-sync maven:org.webjars.bower:npm maven:org.webjars:npm maven:org.webjars.npm:bower
+maven:org.odata4j:odata4j-core
+maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.fastjson maven:com.alibaba:fastjson
+maven:org.eclipse.jetty.http2:http2-common
+maven:org.apache.sling:org.apache.sling.auth.core
+maven:de.tracetronic.jenkins.plugins:ecutest
+maven:org.apache.struts:struts2-rest-plugin
+maven:org.apache.struts:struts2-core maven:org.apache.struts.xwork:xwork-core
+maven:opensymphony:xwork
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:com.h2database:h2
+maven:org.jvnet.hudson.main:hudson-core maven:org.jenkins-ci.main:jenkins-core
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.karaf:karaf maven:org.apache.karaf.management:org.apache.karaf.management.server
+maven:com.typesafe.play:play_2.13 maven:com.typesafe.play:play-java_2.12 maven:com.typesafe.play:play_2.10 maven:com.typesafe.play:play-java_2.13 maven:com.typesafe.play:play_2.11 maven:com.typesafe.play:play-java_2.10 maven:com.typesafe.play:play-java_2.13.0-M3 maven:com.typesafe.play:play_2.13.0-M5 maven:com.typesafe.play:play_2.13.0-M3 maven:com.typesafe.play:play_2.12 maven:com.typesafe.play:play-java_2.11
+maven:org.jenkins-ci.plugins:teamconcert
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:tomcat-coyote
+maven:org.webjars.npm:github-com-chatwoot-chatwoot
+maven:org.fujion.webjars:jquery maven:org.webjars.npm:jqtree maven:org.webjars.bowergithub.jquery:jquery-dist maven:org.webjars.npm:jquery-ui maven:org.webjars.bower:github-com-woogis9-sample1022 maven:org.webjars.bower:jquery maven:org.webjars:jquery maven:org.webjars.npm:jquery
+maven:org.opencastproject:opencast-kernel
+maven:com.typesafe.play:play-java_2.13.0-RC2 maven:com.typesafe.play:play-java_2.13 maven:com.typesafe.play:play-java_2.12 maven:com.typesafe.play:play_2.12
+maven:org.apache.portals.jetspeed-2:jetspeed-security
+maven:com.urbancode.ds.jenkins.plugins:sra-deploy
+maven:io.vertx:vertx-web
+maven:org.apache.tomcat:tomcat
+maven:io.ktor:ktor-auth-ldap
+maven:org.jenkins-ci.main:jenkins-core
+maven:com.liferay.portal:release.dxp.bom maven:com.liferay.portal:portal-impl
+maven:org.webjars:superagent maven:org.webjars:browser-sync maven:org.webjars.npm:superagent maven:org.webjars.bower:superagent
+maven:org.jenkins-ci.plugins:semantic-versioning-plugin
+maven:org.apache.tapestry:tapestry-ioc maven:org.apache.tapestry:tapestry-core
+maven:org.webjars.npm:canvas
+maven:ru.yandex.jenkins.plugins.debuilder:debian-package-builder
+maven:xstream:xstream maven:com.thoughtworks.xstream:xstream
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.keycloak:keycloak-services
+maven:com.xebialabs.xlt.ci:xltestview-plugin
+maven:edu.vt.middleware:vt-ldap maven:org.ldaptive:ldaptive
+maven:org.thymeleaf:thymeleaf-spring5 maven:org.thymeleaf:thymeleaf-spring3
+maven:org.dom4j:dom4j maven:dom4j:dom4j
+maven:org.jenkins-ci.main:jenkins-core
+maven:org.apache.archiva:archiva maven:org.apache.archiva:archiva-web-common
+maven:com.adobe.blazeds:blazeds-common maven:com.adobe.blazeds:blazeds-core
+maven:org.wso2.carbon:org.wso2.carbon.ui
+maven:org.keycloak:keycloak-services
+maven:org.apache.jspwiki:jspwiki-main maven:org.apache.jspwiki:jspwiki-war
+maven:org.apache.geode:geode-core
+maven:com.fasterxml.jackson.core:jackson-databind
+maven:org.jenkins-ci.plugins:gitea
+maven:org.neo4j.app:neo4j-server
+maven:org.apache.tomcat.embed:tomcat-embed-core maven:org.apache.tomcat:tomcat-catalina
+maven:org.webjars.bower:FlipClock maven:org.webjars.npm:floatthead maven:org.webjars.npm:getobject
+maven:org.bouncycastle:bcprov-jdk15 maven:org.bouncycastle:bcprov-ext-jdk14 maven:org.bouncycastle:bcprov-jdk14 maven:org.bouncycastle:bc-fips maven:org.bouncycastle:bcprov-jdk16 maven:org.bouncycastle:bcprov-debug-jdk14 maven:org.bouncycastle:bcprov-ext-debug-jdk15on maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcpg-jdk15on maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcprov-jdk15on maven:org.bouncycastle:bcprov-debug-jdk15on maven:org.bouncycastle:bcprov-jdk15+ maven:org.apache.servicemix.bundles:org.apache.servicemix.bundles.bcprov-jdk15 maven:org.bouncycastle:bcprov-jdk15on maven:org.bouncycastle:bcprov-ext-jdk15on
+maven:org.picketlink:picketlink-common
+maven:org.jenkins-ci.plugins:pipeline-githubnotify-step
+maven:org.jenkins-ci.plugins:periodicbackup
+maven:org.apache.iotdb:iotdb-server
+maven:org.jenkins-ci.plugins:kmap-jenkins
+maven:com.sonyericsson.hudson.plugins.gerrit:gerrit-trigger
+maven:org.apache.flex.blazeds:flex-messaging-core
+maven:org.alluxio:alluxio-logserver
+maven:org.apache.brooklyn:brooklyn-jsgui
+maven:org.apache.cxf:cxf maven:org.apache.cxf:apache-cxf maven:org.apache.cxf:cxf-rt-rs-security-sso-oidc maven:org.apache.cxf:cxf-rt-rs-security-jose

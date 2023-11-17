@@ -1,4 +1,4 @@
-This is our anonymous website for ICSE'24 submission #127: `Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries`.
+This is our website for `Identifying Vulnerable Third-Party Java Libraries from Textual Descriptions of Vulnerabilities and Libraries`.
 
 In `NER_case.md`, we show an motivating example case of our NER model, illustrating its effectiveness of identifying library-name entities.
 
@@ -16,5 +16,10 @@ An Java libary entry includes its name, description, tokens in its name, tokens 
 
 In `VeraJava`, `VeraJava/cve_labels.csv` and `VeraJava/verajava.csv` corresponds to the original dataset (including multiple programming languages) and the VeraJava dataset we extracted.
 
+In `Chronos`, `FastXML`, `LightXML`, we include our baselines and scripts.
+
+In `data_scripts`, we include our scripts for data-cleaning and generation for VulLibMiner and baselines.
+
 We do not open-source our code repository now due to the security requirement of our industry partner, and we plan to open-source them at the publication of our paper.
 However, in Section 3, we list all details of our approach, so that it can be easily reproduced.
+
