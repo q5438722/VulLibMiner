@@ -10,15 +10,17 @@ Additionally, in RQ2, we split the testing set of into the zero-shot testing and
 
 In each file, an vulnerability entry includes its CVE id, vulnerability description, labels (affected libraries), Top-128 TF-IDF results and Top-128 results after BERT-FNN (output of VulLibMiner).
 
-Now that we take the descriptions of library descriptions besides vulnerability descriptions as input, `VulLib/maven_corpus.zip` corresponds to the descriptions of all Java libraries in Maven (310,844).
+Now that we take the descriptions of library descriptions besides vulnerability descriptions as input, `maven_corpus_new.json` corresponds to the descriptions of all Java libraries in Maven (311,233).
 
 An Java libary entry includes its name, description, tokens in its name, tokens in its description.
 
 In `VeraJava`, `VeraJava/cve_labels.csv` and `VeraJava/verajava.csv` corresponds to the original dataset (including multiple programming languages) and the VeraJava dataset we extracted.
 
-In `Chronos`, `FastXML`, `LightXML`, we include our baselines and scripts.
+In `Chronos`, `FastXML`, `LightXML`, we include our baselines and their running scripts.
 
 In `data_scripts`, we include our scripts for data-cleaning and generation for VulLibMiner and baselines.
+
+In `tf-idf-fig`, we include our evaluation results of RQ4: the selection of hyper-parameters.
 
 We do not open-source our code repository now due to the security requirement of our industry partner, and we plan to open-source them at the publication of our paper.
 However, in Section 3, we list all details of our approach, so that it can be easily reproduced.
