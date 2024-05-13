@@ -1,5 +1,11 @@
 This is our website for `Identifying Vulnerable Third-Party Java Libraries from Textual Descriptions of Vulnerabilities and Libraries`.
 
+In folder `tf-idf`, we include the source code of our TF-IDF matcher. It is invoked by initializing a `search_engine` with a Maven corpus and directly invoking the `search_topk_objects` API.
+
+In folder `trainer_reranking`, we include the source code of our BERT-FNN model, this script can be directly executed by setting the input/outut paths.
+
+
+
 In `NER_case.md`, we show an motivating example case of our NER model, illustrating its effectiveness of identifying library-name entities.
 
 We have open-sourced our VulLib and VeraJava dataset in the folder `VulLib` and `VeraJava` respectively.
@@ -21,7 +27,4 @@ In `Chronos`, `FastXML`, `LightXML`, we include our baselines and their running 
 In `data_scripts`, we include our scripts for data-cleaning and generation for VulLibMiner and baselines.
 
 In `tf-idf-fig`, we include our evaluation results of RQ4: the selection of hyper-parameters.
-
-We do not open-source our code repository now due to the security requirement of our industry partner, and we plan to open-source them at the publication of our paper.
-However, in Section 3, we list all details of our approach, so that it can be easily reproduced.
 
