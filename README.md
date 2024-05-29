@@ -10,7 +10,7 @@ In `NER_case.md`, we show an motivating example case of our NER model, illustrat
 
 We have open-sourced our VulLib and VeraJava dataset in the folder `VulLib` and `VeraJava` respectively.
 
-In `VulLib`, `VulLib/train.json`, `VulLib/valid.json`, `VulLib/test.json` corresponds to the training, validate, and testing set of VulLib.
+In `VulLib`, `VulLib/train.json`, `VulLib/valid.json`, `VulLib/test.json` corresponds to the training, validate, and testing set of VulLib (old version); in our revision, we extend our dataset upto 2024.04.28 in `VulLib/vullib_new.json`, which includes 4,557 vulnerabilities and 7,280 <Vulnerability, Library> pairs.
 
 Additionally, in RQ2, we split the testing set of into the zero-shot testing and the full-shot testing set, we also include them in `VulLib/test_zero.json` and `VulLib/test_full.json`.
 
